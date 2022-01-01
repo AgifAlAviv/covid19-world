@@ -66,9 +66,9 @@ Asia,Afghanistan,AFG,31/10/2021,156250,7280
 Asia,Afghanistan,AFG,10/11/2021,156414,7291
 Asia,Afghanistan,AFG,20/11/2021,156864,7301
 Asia,Afghanistan,AFG,30/11/2021,157289,7308
-Asia,Afghanistan,AFG,10/12/2021,0,0
-Asia,Afghanistan,AFG,20/12/2021,0,0
-Asia,Afghanistan,AFG,31/12/2021,0,0
+Asia,Afghanistan,AFG,10/12/2021,157603,7324
+Asia,Afghanistan,AFG,20/12/2021,157797,7335
+Asia,Afghanistan,AFG,31/12/2021,158084,7356
 Europe,Albania,ALB,31/01/2020,0,0
 Europe,Albania,ALB,10/02/2020,0,0
 Europe,Albania,ALB,20/02/2020,0,0
@@ -136,9 +136,9 @@ Europe,Albania,ALB,31/10/2021,185300,2924
 Europe,Albania,ALB,10/11/2021,190815,2975
 Europe,Albania,ALB,20/11/2021,195988,3035
 Europe,Albania,ALB,30/11/2021,199945,3096
-Europe,Albania,ALB,10/12/2021,0,0
-Europe,Albania,ALB,20/12/2021,0,0
-Europe,Albania,ALB,31/12/2021,0,0
+Europe,Albania,ALB,10/12/2021,203215,3130
+Europe,Albania,ALB,20/12/2021,205897,3172
+Europe,Albania,ALB,31/12/2021,210224,3217
 Africa,Algeria,DZA,31/01/2020,0,0
 Africa,Algeria,DZA,10/02/2020,0,0
 Africa,Algeria,DZA,20/02/2020,0,0
@@ -206,9 +206,9 @@ Africa,Algeria,DZA,31/10/2021,206452,5920
 Africa,Algeria,DZA,10/11/2021,207509,5960
 Africa,Algeria,DZA,20/11/2021,208839,6017
 Africa,Algeria,DZA,30/11/2021,210531,6071
-Africa,Algeria,DZA,10/12/2021,0,0
-Africa,Algeria,DZA,20/12/2021,0,0
-Africa,Algeria,DZA,31/12/2021,0,0
+Africa,Algeria,DZA,10/12/2021,212434,6132
+Africa,Algeria,DZA,20/12/2021,214835,6190
+Africa,Algeria,DZA,31/12/2021,218432,6276
 Oceania,American Samoa,ASM,31/01/2020,0,0
 Oceania,American Samoa,ASM,10/02/2020,0,0
 Oceania,American Samoa,ASM,20/02/2020,0,0
@@ -346,9 +346,9 @@ Europe,Andorra,AND,31/10/2021,15516,130
 Europe,Andorra,AND,10/11/2021,15744,130
 Europe,Andorra,AND,20/11/2021,16086,130
 Europe,Andorra,AND,30/11/2021,17115,131
-Europe,Andorra,AND,10/12/2021,0,0
-Europe,Andorra,AND,20/12/2021,0,0
-Europe,Andorra,AND,31/12/2021,0,0
+Europe,Andorra,AND,10/12/2021,19440,133
+Europe,Andorra,AND,20/12/2021,21062,137
+Europe,Andorra,AND,31/12/2021,23740,140
 Africa,Angola,AGO,31/01/2020,0,0
 Africa,Angola,AGO,10/02/2020,0,0
 Africa,Angola,AGO,20/02/2020,0,0
@@ -416,9 +416,9 @@ Africa,Angola,AGO,31/10/2021,64433,1710
 Africa,Angola,AGO,10/11/2021,64815,1723
 Africa,Angola,AGO,20/11/2021,65011,1730
 Africa,Angola,AGO,30/11/2021,65168,1733
-Africa,Angola,AGO,10/12/2021,0,0
-Africa,Angola,AGO,20/12/2021,0,0
-Africa,Angola,AGO,31/12/2021,0,0
+Africa,Angola,AGO,10/12/2021,65371,1737
+Africa,Angola,AGO,20/12/2021,66086,1738
+Africa,Angola,AGO,31/12/2021,81593,1770
 North America,Antigua and Barbuda,ATG,31/01/2020,0,0
 North America,Antigua and Barbuda,ATG,10/02/2020,0,0
 North America,Antigua and Barbuda,ATG,20/02/2020,0,0
@@ -486,9 +486,9 @@ North America,Antigua and Barbuda,ATG,31/10/2021,4058,102
 North America,Antigua and Barbuda,ATG,10/11/2021,4102,105
 North America,Antigua and Barbuda,ATG,20/11/2021,4135,108
 North America,Antigua and Barbuda,ATG,30/11/2021,4141,117
-North America,Antigua and Barbuda,ATG,10/12/2021,0,0
-North America,Antigua and Barbuda,ATG,20/12/2021,0,0
-North America,Antigua and Barbuda,ATG,31/12/2021,0,0
+North America,Antigua and Barbuda,ATG,10/12/2021,4159,117
+North America,Antigua and Barbuda,ATG,20/12/2021,4198,117
+North America,Antigua and Barbuda,ATG,31/12/2021,4283,119
 South America,Argentina,ARG,31/01/2020,0,0
 South America,Argentina,ARG,10/02/2020,0,0
 South America,Argentina,ARG,20/02/2020,0,0
@@ -556,9 +556,9 @@ South America,Argentina,ARG,31/10/2021,5288807,115950
 South America,Argentina,ARG,10/11/2021,5300985,116184
 South America,Argentina,ARG,20/11/2021,5314702,116374
 South America,Argentina,ARG,30/11/2021,5330748,116589
-South America,Argentina,ARG,10/12/2021,0,0
-South America,Argentina,ARG,20/12/2021,0,0
-South America,Argentina,ARG,31/12/2021,0,0
+South America,Argentina,ARG,10/12/2021,5354440,116748
+South America,Argentina,ARG,20/12/2021,5395044,116930
+South America,Argentina,ARG,31/12/2021,5654408,117169
 Asia,Armenia,ARM,31/01/2020,0,0
 Asia,Armenia,ARM,10/02/2020,0,0
 Asia,Armenia,ARM,20/02/2020,0,0
@@ -626,9 +626,9 @@ Asia,Armenia,ARM,31/10/2021,308326,6328
 Asia,Armenia,ARM,10/11/2021,324039,6831
 Asia,Armenia,ARM,20/11/2021,333583,7253
 Asia,Armenia,ARM,30/11/2021,338518,7567
-Asia,Armenia,ARM,10/12/2021,0,0
-Asia,Armenia,ARM,20/12/2021,0,0
-Asia,Armenia,ARM,31/12/2021,0,0
+Asia,Armenia,ARM,10/12/2021,342115,7767
+Asia,Armenia,ARM,20/12/2021,343708,7903
+Asia,Armenia,ARM,31/12/2021,344930,7972
 Oceania,Australia,AUS,31/01/2020,9,0
 Oceania,Australia,AUS,10/02/2020,15,0
 Oceania,Australia,AUS,20/02/2020,15,0
@@ -696,9 +696,9 @@ Oceania,Australia,AUS,31/10/2021,172030,1743
 Oceania,Australia,AUS,10/11/2021,185627,1862
 Oceania,Australia,AUS,20/11/2021,198442,1944
 Oceania,Australia,AUS,30/11/2021,211655,2011
-Oceania,Australia,AUS,10/12/2021,0,0
-Oceania,Australia,AUS,20/12/2021,0,0
-Oceania,Australia,AUS,31/12/2021,0,0
+Oceania,Australia,AUS,10/12/2021,227382,2100
+Oceania,Australia,AUS,20/12/2021,259174,2154
+Oceania,Australia,AUS,31/12/2021,402949,2248
 Europe,Austria,AUT,31/01/2020,0,0
 Europe,Austria,AUT,10/02/2020,0,0
 Europe,Austria,AUT,20/02/2020,0,0
@@ -766,9 +766,9 @@ Europe,Austria,AUT,31/10/2021,830981,11357
 Europe,Austria,AUT,10/11/2021,911175,11577
 Europe,Austria,AUT,20/11/2021,1042571,11993
 Europe,Austria,AUT,30/11/2021,1159995,12492
-Europe,Austria,AUT,10/12/2021,0,0
-Europe,Austria,AUT,20/12/2021,0,0
-Europe,Austria,AUT,31/12/2021,0,0
+Europe,Austria,AUT,10/12/2021,1221095,13076
+Europe,Austria,AUT,20/12/2021,1251433,13496
+Europe,Austria,AUT,31/12/2021,1278619,13733
 Asia,Azerbaijan,AZE,31/01/2020,0,0
 Asia,Azerbaijan,AZE,10/02/2020,0,0
 Asia,Azerbaijan,AZE,20/02/2020,0,0
@@ -836,9 +836,9 @@ Asia,Azerbaijan,AZE,31/10/2021,531370,7074
 Asia,Azerbaijan,AZE,10/11/2021,552322,7342
 Asia,Azerbaijan,AZE,20/11/2021,572085,7599
 Asia,Azerbaijan,AZE,30/11/2021,588318,7856
-Asia,Azerbaijan,AZE,10/12/2021,0,0
-Asia,Azerbaijan,AZE,20/12/2021,0,0
-Asia,Azerbaijan,AZE,31/12/2021,0,0
+Asia,Azerbaijan,AZE,10/12/2021,602137,8055
+Asia,Azerbaijan,AZE,20/12/2021,610895,8208
+Asia,Azerbaijan,AZE,31/12/2021,616947,8358
 North America,Bahamas,BHS,31/01/2020,0,0
 North America,Bahamas,BHS,10/02/2020,0,0
 North America,Bahamas,BHS,20/02/2020,0,0
@@ -906,9 +906,9 @@ North America,Bahamas,BHS,31/10/2021,22351,643
 North America,Bahamas,BHS,10/11/2021,22544,661
 North America,Bahamas,BHS,20/11/2021,22655,671
 North America,Bahamas,BHS,30/11/2021,22791,671
-North America,Bahamas,BHS,10/12/2021,0,0
-North America,Bahamas,BHS,20/12/2021,0,0
-North America,Bahamas,BHS,31/12/2021,0,0
+North America,Bahamas,BHS,10/12/2021,22881,708
+North America,Bahamas,BHS,20/12/2021,23112,713
+North America,Bahamas,BHS,31/12/2021,24476,717
 Asia,Bahrain,BHR,31/01/2020,0,0
 Asia,Bahrain,BHR,10/02/2020,0,0
 Asia,Bahrain,BHR,20/02/2020,0,0
@@ -976,9 +976,9 @@ Asia,Bahrain,BHR,31/10/2021,276829,1393
 Asia,Bahrain,BHR,10/11/2021,277138,1393
 Asia,Bahrain,BHR,20/11/2021,277348,1394
 Asia,Bahrain,BHR,30/11/2021,277690,1394
-Asia,Bahrain,BHR,10/12/2021,0,0
-Asia,Bahrain,BHR,20/12/2021,0,0
-Asia,Bahrain,BHR,31/12/2021,0,0
+Asia,Bahrain,BHR,10/12/2021,277997,1394
+Asia,Bahrain,BHR,20/12/2021,278600,1394
+Asia,Bahrain,BHR,31/12/2021,282062,1394
 Asia,Bangladesh,BGD,31/01/2020,0,0
 Asia,Bangladesh,BGD,10/02/2020,0,0
 Asia,Bangladesh,BGD,20/02/2020,0,0
@@ -1046,9 +1046,9 @@ Asia,Bangladesh,BGD,31/10/2021,1569539,27868
 Asia,Bangladesh,BGD,10/11/2021,1571669,27906
 Asia,Bangladesh,BGD,20/11/2021,1573889,27946
 Asia,Bangladesh,BGD,30/11/2021,1576284,27981
-Asia,Bangladesh,BGD,10/12/2021,0,0
-Asia,Bangladesh,BGD,20/12/2021,0,0
-Asia,Bangladesh,BGD,31/12/2021,0,0
+Asia,Bangladesh,BGD,10/12/2021,1578819,28017
+Asia,Bangladesh,BGD,20/12/2021,1581343,28050
+Asia,Bangladesh,BGD,31/12/2021,1585539,28072
 North America,Barbados,BRB,31/01/2020,0,0
 North America,Barbados,BRB,10/02/2020,0,0
 North America,Barbados,BRB,20/02/2020,0,0
@@ -1116,9 +1116,9 @@ North America,Barbados,BRB,31/10/2021,17763,153
 North America,Barbados,BRB,10/11/2021,21011,187
 North America,Barbados,BRB,20/11/2021,23623,206
 North America,Barbados,BRB,30/11/2021,25316,229
-North America,Barbados,BRB,10/12/2021,0,0
-North America,Barbados,BRB,20/12/2021,0,0
-North America,Barbados,BRB,31/12/2021,0,0
+North America,Barbados,BRB,10/12/2021,26668,249
+North America,Barbados,BRB,20/12/2021,27218,256
+North America,Barbados,BRB,31/12/2021,28565,260
 Europe,Belarus,BLR,31/01/2020,0,0
 Europe,Belarus,BLR,10/02/2020,0,0
 Europe,Belarus,BLR,20/02/2020,0,0
@@ -1186,9 +1186,9 @@ Europe,Belarus,BLR,31/10/2021,600168,4631
 Europe,Belarus,BLR,10/11/2021,619708,4789
 Europe,Belarus,BLR,20/11/2021,638402,4932
 Europe,Belarus,BLR,30/11/2021,654718,5081
-Europe,Belarus,BLR,10/12/2021,0,0
-Europe,Belarus,BLR,20/12/2021,0,0
-Europe,Belarus,BLR,31/12/2021,0,0
+Europe,Belarus,BLR,10/12/2021,671432,5245
+Europe,Belarus,BLR,20/12/2021,685462,5399
+Europe,Belarus,BLR,31/12/2021,699110,5578
 Europe,Belgium,BEL,31/01/2020,0,0
 Europe,Belgium,BEL,10/02/2020,1,0
 Europe,Belgium,BEL,20/02/2020,1,0
@@ -1256,9 +1256,9 @@ Europe,Belgium,BEL,31/10/2021,1360650,25994
 Europe,Belgium,BEL,10/11/2021,1463548,26261
 Europe,Belgium,BEL,20/11/2021,1581500,26568
 Europe,Belgium,BEL,30/11/2021,1766035,27015
-Europe,Belgium,BEL,10/12/2021,0,0
-Europe,Belgium,BEL,20/12/2021,0,0
-Europe,Belgium,BEL,31/12/2021,0,0
+Europe,Belgium,BEL,10/12/2021,1929772,27504
+Europe,Belgium,BEL,20/12/2021,2017154,27992
+Europe,Belgium,BEL,31/12/2021,2105343,28331
 North America,Belize,BLZ,31/01/2020,0,0
 North America,Belize,BLZ,10/02/2020,0,0
 North America,Belize,BLZ,20/02/2020,0,0
@@ -1326,9 +1326,9 @@ North America,Belize,BLZ,31/10/2021,26798,491
 North America,Belize,BLZ,10/11/2021,28568,530
 North America,Belize,BLZ,20/11/2021,29501,558
 North America,Belize,BLZ,30/11/2021,30431,578
-North America,Belize,BLZ,10/12/2021,0,0
-North America,Belize,BLZ,20/12/2021,0,0
-North America,Belize,BLZ,31/12/2021,0,0
+North America,Belize,BLZ,10/12/2021,31033,586
+North America,Belize,BLZ,20/12/2021,31294,591
+North America,Belize,BLZ,31/12/2021,32840,602
 Africa,Benin,BEN,31/01/2020,0,0
 Africa,Benin,BEN,10/02/2020,0,0
 Africa,Benin,BEN,20/02/2020,0,0
@@ -1396,9 +1396,9 @@ Africa,Benin,BEN,31/10/2021,24749,161
 Africa,Benin,BEN,10/11/2021,24833,161
 Africa,Benin,BEN,20/11/2021,24846,161
 Africa,Benin,BEN,30/11/2021,24850,161
-Africa,Benin,BEN,10/12/2021,0,0
-Africa,Benin,BEN,20/12/2021,0,0
-Africa,Benin,BEN,31/12/2021,0,0
+Africa,Benin,BEN,10/12/2021,24897,161
+Africa,Benin,BEN,20/12/2021,24907,161
+Africa,Benin,BEN,31/12/2021,24935,161
 Asia,Bhutan,BTN,31/01/2020,0,0
 Asia,Bhutan,BTN,10/02/2020,0,0
 Asia,Bhutan,BTN,20/02/2020,0,0
@@ -1466,9 +1466,9 @@ Asia,Bhutan,BTN,31/10/2021,2621,3
 Asia,Bhutan,BTN,10/11/2021,2623,3
 Asia,Bhutan,BTN,20/11/2021,2632,3
 Asia,Bhutan,BTN,30/11/2021,2640,3
-Asia,Bhutan,BTN,10/12/2021,0,0
-Asia,Bhutan,BTN,20/12/2021,0,0
-Asia,Bhutan,BTN,31/12/2021,0,0
+Asia,Bhutan,BTN,10/12/2021,2649,3
+Asia,Bhutan,BTN,20/12/2021,2657,3
+Asia,Bhutan,BTN,31/12/2021,2660,3
 South America,Bolivia,BOL,31/01/2020,0,0
 South America,Bolivia,BOL,10/02/2020,0,0
 South America,Bolivia,BOL,20/02/2020,0,0
@@ -1536,9 +1536,9 @@ South America,Bolivia,BOL,31/10/2021,513584,18925
 South America,Bolivia,BOL,10/11/2021,519669,18976
 South America,Bolivia,BOL,20/11/2021,528407,19051
 South America,Bolivia,BOL,30/11/2021,537559,19171
-South America,Bolivia,BOL,10/12/2021,0,0
-South America,Bolivia,BOL,20/12/2021,0,0
-South America,Bolivia,BOL,31/12/2021,0,0
+South America,Bolivia,BOL,10/12/2021,549638,19281
+South America,Bolivia,BOL,20/12/2021,564747,19440
+South America,Bolivia,BOL,31/12/2021,599753,19680
 Europe,Bosnia and Herzegovina,BIH,31/01/2020,0,0
 Europe,Bosnia and Herzegovina,BIH,10/02/2020,0,0
 Europe,Bosnia and Herzegovina,BIH,20/02/2020,0,0
@@ -1606,9 +1606,9 @@ Europe,Bosnia and Herzegovina,BIH,31/10/2021,252758,11495
 Europe,Bosnia and Herzegovina,BIH,10/11/2021,261799,11891
 Europe,Bosnia and Herzegovina,BIH,20/11/2021,268572,12219
 Europe,Bosnia and Herzegovina,BIH,30/11/2021,275065,12586
-Europe,Bosnia and Herzegovina,BIH,10/12/2021,0,0
-Europe,Bosnia and Herzegovina,BIH,20/12/2021,0,0
-Europe,Bosnia and Herzegovina,BIH,31/12/2021,0,0
+Europe,Bosnia and Herzegovina,BIH,10/12/2021,280980,12918
+Europe,Bosnia and Herzegovina,BIH,20/12/2021,285133,13188
+Europe,Bosnia and Herzegovina,BIH,31/12/2021,291313,13442
 Africa,Botswana,BWA,31/01/2020,0,0
 Africa,Botswana,BWA,10/02/2020,0,0
 Africa,Botswana,BWA,20/02/2020,0,0
@@ -1676,9 +1676,9 @@ Africa,Botswana,BWA,31/10/2021,186594,2406
 Africa,Botswana,BWA,10/11/2021,193449,2409
 Africa,Botswana,BWA,20/11/2021,194445,2416
 Africa,Botswana,BWA,30/11/2021,195068,2418
-Africa,Botswana,BWA,10/12/2021,0,0
-Africa,Botswana,BWA,20/12/2021,0,0
-Africa,Botswana,BWA,31/12/2021,0,0
+Africa,Botswana,BWA,10/12/2021,196090,2421
+Africa,Botswana,BWA,20/12/2021,204701,2425
+Africa,Botswana,BWA,31/12/2021,219509,2444
 South America,Brazil,BRA,31/01/2020,0,0
 South America,Brazil,BRA,10/02/2020,0,0
 South America,Brazil,BRA,20/02/2020,0,0
@@ -1690,65 +1690,65 @@ South America,Brazil,BRA,10/04/2020,19638,1057
 South America,Brazil,BRA,20/04/2020,40743,2587
 South America,Brazil,BRA,30/04/2020,87187,6006
 South America,Brazil,BRA,10/05/2020,162699,11123
-South America,Brazil,BRA,20/05/2020,291579,18859
-South America,Brazil,BRA,31/05/2020,514849,29314
-South America,Brazil,BRA,10/06/2020,772416,39680
-South America,Brazil,BRA,20/06/2020,1067579,49976
-South America,Brazil,BRA,30/06/2020,1402041,59594
-South America,Brazil,BRA,10/07/2020,1800827,70398
-South America,Brazil,BRA,20/07/2020,2118646,80120
-South America,Brazil,BRA,31/07/2020,2662485,92475
-South America,Brazil,BRA,10/08/2020,3057470,101752
-South America,Brazil,BRA,20/08/2020,3501975,112304
-South America,Brazil,BRA,31/08/2020,3908272,121381
-South America,Brazil,BRA,10/09/2020,4238446,129522
-South America,Brazil,BRA,20/09/2020,4544629,136895
-South America,Brazil,BRA,30/09/2020,4810935,143952
-South America,Brazil,BRA,10/10/2020,5082637,150198
-South America,Brazil,BRA,20/10/2020,5273954,154837
-South America,Brazil,BRA,31/10/2020,5535605,159884
-South America,Brazil,BRA,10/11/2020,5699005,162802
-South America,Brazil,BRA,20/11/2020,6020164,168613
-South America,Brazil,BRA,30/11/2020,6335878,173120
-South America,Brazil,BRA,10/12/2020,6781799,179765
-South America,Brazil,BRA,20/12/2020,7238600,186764
-South America,Brazil,BRA,31/12/2020,7675973,194949
-South America,Brazil,BRA,10/01/2021,8105790,203100
-South America,Brazil,BRA,20/01/2021,8638249,212831
-South America,Brazil,BRA,31/01/2021,9204731,224504
-South America,Brazil,BRA,10/02/2021,9659167,234850
-South America,Brazil,BRA,20/02/2021,10139148,245977
-South America,Brazil,BRA,28/02/2021,10551259,254942
-South America,Brazil,BRA,10/03/2021,11202305,270656
-South America,Brazil,BRA,20/03/2021,11950459,292752
-South America,Brazil,BRA,31/03/2021,12748747,321515
-South America,Brazil,BRA,10/04/2021,13445006,351334
-South America,Brazil,BRA,20/04/2021,14043076,378003
-South America,Brazil,BRA,30/04/2021,14659011,403781
-South America,Brazil,BRA,10/05/2021,15209990,423229
-South America,Brazil,BRA,20/05/2021,15894094,444094
-South America,Brazil,BRA,31/05/2021,16545554,462791
-South America,Brazil,BRA,10/06/2021,17210969,482019
-South America,Brazil,BRA,20/06/2021,17927928,501825
-South America,Brazil,BRA,30/06/2021,18557141,518066
-South America,Brazil,BRA,10/07/2021,19069003,532893
-South America,Brazil,BRA,20/07/2021,19419437,544180
-South America,Brazil,BRA,31/07/2021,19917855,556370
-South America,Brazil,BRA,10/08/2021,20212642,564773
-South America,Brazil,BRA,20/08/2021,20528099,573511
-South America,Brazil,BRA,31/08/2021,20776870,580413
-South America,Brazil,BRA,10/09/2021,20974850,585846
-South America,Brazil,BRA,20/09/2021,21247667,590955
-South America,Brazil,BRA,30/09/2021,21427073,596749
-South America,Brazil,BRA,10/10/2021,21575820,601011
-South America,Brazil,BRA,20/10/2021,21680488,604228
-South America,Brazil,BRA,31/10/2021,21810855,607824
-South America,Brazil,BRA,10/11/2021,21909298,610036
-South America,Brazil,BRA,20/11/2021,22012150,612587
-South America,Brazil,BRA,30/11/2021,22094459,614681
-South America,Brazil,BRA,10/12/2021,0,0
-South America,Brazil,BRA,20/12/2021,0,0
-South America,Brazil,BRA,31/12/2021,0,0
+South America,Brazil,BRA,20/05/2020,294624,19059
+South America,Brazil,BRA,31/05/2020,516137,29367
+South America,Brazil,BRA,10/06/2020,777707,39824
+South America,Brazil,BRA,20/06/2020,1106332,50100
+South America,Brazil,BRA,30/06/2020,1412669,59792
+South America,Brazil,BRA,10/07/2020,1809371,70646
+South America,Brazil,BRA,20/07/2020,2124152,80346
+South America,Brazil,BRA,31/07/2020,2670451,92728
+South America,Brazil,BRA,10/08/2020,3067633,102015
+South America,Brazil,BRA,20/08/2020,3508352,112500
+South America,Brazil,BRA,31/08/2020,3914829,121618
+South America,Brazil,BRA,10/09/2020,4246638,129726
+South America,Brazil,BRA,20/09/2020,4546587,136977
+South America,Brazil,BRA,30/09/2020,4817365,144078
+South America,Brazil,BRA,10/10/2020,5084513,150302
+South America,Brazil,BRA,20/10/2020,5278737,154965
+South America,Brazil,BRA,31/10/2020,5537763,159972
+South America,Brazil,BRA,10/11/2020,5726227,162922
+South America,Brazil,BRA,20/11/2020,6025913,168731
+South America,Brazil,BRA,30/11/2020,6341965,173268
+South America,Brazil,BRA,10/12/2020,6789908,179903
+South America,Brazil,BRA,20/12/2020,7242625,186880
+South America,Brazil,BRA,31/12/2020,7681032,195072
+South America,Brazil,BRA,10/01/2021,8110118,203259
+South America,Brazil,BRA,20/01/2021,8647962,213024
+South America,Brazil,BRA,31/01/2021,9208521,224648
+South America,Brazil,BRA,10/02/2021,9669883,235081
+South America,Brazil,BRA,20/02/2021,10144332,246114
+South America,Brazil,BRA,28/02/2021,10558091,255179
+South America,Brazil,BRA,10/03/2021,11217531,271140
+South America,Brazil,BRA,20/03/2021,11958814,293076
+South America,Brazil,BRA,31/03/2021,12763392,322138
+South America,Brazil,BRA,10/04/2021,13451932,351674
+South America,Brazil,BRA,20/04/2021,14060162,378774
+South America,Brazil,BRA,30/04/2021,14675104,404530
+South America,Brazil,BRA,10/05/2021,15227496,423748
+South America,Brazil,BRA,20/05/2021,15910762,444647
+South America,Brazil,BRA,31/05/2021,16557888,463244
+South America,Brazil,BRA,10/06/2021,17225867,482435
+South America,Brazil,BRA,20/06/2021,17933754,502139
+South America,Brazil,BRA,30/06/2021,18570296,518488
+South America,Brazil,BRA,10/07/2021,19074698,533193
+South America,Brazil,BRA,20/07/2021,19428736,544532
+South America,Brazil,BRA,31/07/2021,19922146,556676
+South America,Brazil,BRA,10/08/2021,20220993,565193
+South America,Brazil,BRA,20/08/2021,20535951,573862
+South America,Brazil,BRA,31/08/2021,20785196,580764
+South America,Brazil,BRA,10/09/2021,20981793,586148
+South America,Brazil,BRA,20/09/2021,21253033,591279
+South America,Brazil,BRA,30/09/2021,21432362,597032
+South America,Brazil,BRA,10/10/2021,21580539,601285
+South America,Brazil,BRA,20/10/2021,21686995,604525
+South America,Brazil,BRA,31/10/2021,21814625,608082
+South America,Brazil,BRA,10/11/2021,21918229,610313
+South America,Brazil,BRA,20/11/2021,22016439,612853
+South America,Brazil,BRA,30/11/2021,22100143,614985
+South America,Brazil,BRA,10/12/2021,22189181,616961
+South America,Brazil,BRA,20/12/2021,22220209,618149
+South America,Brazil,BRA,31/12/2021,22291839,619334
 Asia,Brunei,BRN,31/01/2020,0,0
 Asia,Brunei,BRN,10/02/2020,0,0
 Asia,Brunei,BRN,20/02/2020,0,0
@@ -1816,9 +1816,9 @@ Asia,Brunei,BRN,31/10/2021,13130,88
 Asia,Brunei,BRN,10/11/2021,13962,93
 Asia,Brunei,BRN,20/11/2021,14444,96
 Asia,Brunei,BRN,30/11/2021,15058,97
-Asia,Brunei,BRN,10/12/2021,0,0
-Asia,Brunei,BRN,20/12/2021,0,0
-Asia,Brunei,BRN,31/12/2021,0,0
+Asia,Brunei,BRN,10/12/2021,15283,98
+Asia,Brunei,BRN,20/12/2021,15412,98
+Asia,Brunei,BRN,31/12/2021,15470,98
 Europe,Bulgaria,BGR,31/01/2020,0,0
 Europe,Bulgaria,BGR,10/02/2020,0,0
 Europe,Bulgaria,BGR,20/02/2020,0,0
@@ -1886,9 +1886,9 @@ Europe,Bulgaria,BGR,31/10/2021,602492,23999
 Europe,Bulgaria,BGR,10/11/2021,646856,25754
 Europe,Bulgaria,BGR,20/11/2021,672555,27180
 Europe,Bulgaria,BGR,30/11/2021,695057,28453
-Europe,Bulgaria,BGR,10/12/2021,0,0
-Europe,Bulgaria,BGR,20/12/2021,0,0
-Europe,Bulgaria,BGR,31/12/2021,0,0
+Europe,Bulgaria,BGR,10/12/2021,713083,29459
+Europe,Bulgaria,BGR,20/12/2021,726794,30239
+Europe,Bulgaria,BGR,31/12/2021,747108,30955
 Africa,Burkina Faso,BFA,31/01/2020,0,0
 Africa,Burkina Faso,BFA,10/02/2020,0,0
 Africa,Burkina Faso,BFA,20/02/2020,0,0
@@ -1956,9 +1956,9 @@ Africa,Burkina Faso,BFA,31/10/2021,14793,214
 Africa,Burkina Faso,BFA,10/11/2021,15281,234
 Africa,Burkina Faso,BFA,20/11/2021,15514,265
 Africa,Burkina Faso,BFA,30/11/2021,16000,286
-Africa,Burkina Faso,BFA,10/12/2021,0,0
-Africa,Burkina Faso,BFA,20/12/2021,0,0
-Africa,Burkina Faso,BFA,31/12/2021,0,0
+Africa,Burkina Faso,BFA,10/12/2021,16334,290
+Africa,Burkina Faso,BFA,20/12/2021,16672,296
+Africa,Burkina Faso,BFA,31/12/2021,17632,318
 Asia,Burma,MMR,31/01/2020,0,0
 Asia,Burma,MMR,10/02/2020,0,0
 Asia,Burma,MMR,20/02/2020,0,0
@@ -2026,9 +2026,9 @@ Asia,Burma,MMR,31/10/2021,500073,18697
 Asia,Burma,MMR,10/11/2021,509771,18869
 Asia,Burma,MMR,20/11/2021,517395,19011
 Asia,Burma,MMR,30/11/2021,522402,19104
-Asia,Burma,MMR,10/12/2021,0,0
-Asia,Burma,MMR,20/12/2021,0,0
-Asia,Burma,MMR,31/12/2021,0,0
+Asia,Burma,MMR,10/12/2021,526024,19170
+Asia,Burma,MMR,20/12/2021,528380,19226
+Asia,Burma,MMR,31/12/2021,530834,19268
 Africa,Burundi,BDI,31/01/2020,0,0
 Africa,Burundi,BDI,10/02/2020,0,0
 Africa,Burundi,BDI,20/02/2020,0,0
@@ -2096,9 +2096,9 @@ Africa,Burundi,BDI,31/10/2021,20039,38
 Africa,Burundi,BDI,10/11/2021,20200,38
 Africa,Burundi,BDI,20/11/2021,20332,38
 Africa,Burundi,BDI,30/11/2021,20415,38
-Africa,Burundi,BDI,10/12/2021,0,0
-Africa,Burundi,BDI,20/12/2021,0,0
-Africa,Burundi,BDI,31/12/2021,0,0
+Africa,Burundi,BDI,10/12/2021,20666,38
+Africa,Burundi,BDI,20/12/2021,22639,38
+Africa,Burundi,BDI,31/12/2021,27366,38
 Africa,Cabo Verde,CPV,31/01/2020,0,0
 Africa,Cabo Verde,CPV,10/02/2020,0,0
 Africa,Cabo Verde,CPV,20/02/2020,0,0
@@ -2166,9 +2166,9 @@ Africa,Cabo Verde,CPV,31/10/2021,38215,349
 Africa,Cabo Verde,CPV,10/11/2021,38278,350
 Africa,Cabo Verde,CPV,20/11/2021,38324,350
 Africa,Cabo Verde,CPV,30/11/2021,38370,349
-Africa,Cabo Verde,CPV,10/12/2021,0,0
-Africa,Cabo Verde,CPV,20/12/2021,0,0
-Africa,Cabo Verde,CPV,31/12/2021,0,0
+Africa,Cabo Verde,CPV,10/12/2021,38489,351
+Africa,Cabo Verde,CPV,20/12/2021,38596,352
+Africa,Cabo Verde,CPV,31/12/2021,41732,352
 Asia,Cambodia,KHM,31/01/2020,1,0
 Asia,Cambodia,KHM,10/02/2020,1,0
 Asia,Cambodia,KHM,20/02/2020,1,0
@@ -2236,9 +2236,9 @@ Asia,Cambodia,KHM,31/10/2021,118522,2788
 Asia,Cambodia,KHM,10/11/2021,119292,2845
 Asia,Cambodia,KHM,20/11/2021,119826,2896
 Asia,Cambodia,KHM,30/11/2021,120134,2940
-Asia,Cambodia,KHM,10/12/2021,0,0
-Asia,Cambodia,KHM,20/12/2021,0,0
-Asia,Cambodia,KHM,31/12/2021,0,0
+Asia,Cambodia,KHM,10/12/2021,120327,2978
+Asia,Cambodia,KHM,20/12/2021,120423,3005
+Asia,Cambodia,KHM,31/12/2021,120493,3012
 Africa,Cameroon,CMR,31/01/2020,0,0
 Africa,Cameroon,CMR,10/02/2020,0,0
 Africa,Cameroon,CMR,20/02/2020,0,0
@@ -2306,9 +2306,9 @@ Africa,Cameroon,CMR,31/10/2021,102499,1686
 Africa,Cameroon,CMR,10/11/2021,105719,1758
 Africa,Cameroon,CMR,20/11/2021,106190,1770
 Africa,Cameroon,CMR,30/11/2021,106794,1791
-Africa,Cameroon,CMR,10/12/2021,0,0
-Africa,Cameroon,CMR,20/12/2021,0,0
-Africa,Cameroon,CMR,31/12/2021,0,0
+Africa,Cameroon,CMR,10/12/2021,107549,1823
+Africa,Cameroon,CMR,20/12/2021,108026,1841
+Africa,Cameroon,CMR,31/12/2021,109367,1851
 North America,Canada,CAN,31/01/2020,4,0
 North America,Canada,CAN,10/02/2020,7,0
 North America,Canada,CAN,20/02/2020,8,0
@@ -2376,9 +2376,9 @@ North America,Canada,CAN,31/10/2021,1723506,29022
 North America,Canada,CAN,10/11/2021,1748359,29303
 North America,Canada,CAN,20/11/2021,1772484,29543
 North America,Canada,CAN,30/11/2021,1800867,29739
-North America,Canada,CAN,10/12/2021,0,0
-North America,Canada,CAN,20/12/2021,0,0
-North America,Canada,CAN,31/12/2021,0,0
+North America,Canada,CAN,10/12/2021,1834569,29953
+North America,Canada,CAN,20/12/2021,1906306,30116
+North America,Canada,CAN,31/12/2021,2192498,30377
 Africa,Central African Republic,CAF,31/01/2020,0,0
 Africa,Central African Republic,CAF,10/02/2020,0,0
 Africa,Central African Republic,CAF,20/02/2020,0,0
@@ -2446,9 +2446,9 @@ Africa,Central African Republic,CAF,31/10/2021,11518,100
 Africa,Central African Republic,CAF,10/11/2021,11579,100
 Africa,Central African Republic,CAF,20/11/2021,11666,101
 Africa,Central African Republic,CAF,30/11/2021,11708,101
-Africa,Central African Republic,CAF,10/12/2021,0,0
-Africa,Central African Republic,CAF,20/12/2021,0,0
-Africa,Central African Republic,CAF,31/12/2021,0,0
+Africa,Central African Republic,CAF,10/12/2021,11912,101
+Africa,Central African Republic,CAF,20/12/2021,11961,101
+Africa,Central African Republic,CAF,31/12/2021,12163,101
 Africa,Chad,TCD,31/01/2020,0,0
 Africa,Chad,TCD,10/02/2020,0,0
 Africa,Chad,TCD,20/02/2020,0,0
@@ -2516,9 +2516,9 @@ Africa,Chad,TCD,31/10/2021,5069,174
 Africa,Chad,TCD,10/11/2021,5107,175
 Africa,Chad,TCD,20/11/2021,5107,175
 Africa,Chad,TCD,30/11/2021,5107,175
-Africa,Chad,TCD,10/12/2021,0,0
-Africa,Chad,TCD,20/12/2021,0,0
-Africa,Chad,TCD,31/12/2021,0,0
+Africa,Chad,TCD,10/12/2021,5703,181
+Africa,Chad,TCD,20/12/2021,5703,181
+Africa,Chad,TCD,31/12/2021,5703,181
 South America,Chile,CHL,31/01/2020,0,0
 South America,Chile,CHL,10/02/2020,0,0
 South America,Chile,CHL,20/02/2020,0,0
@@ -2586,9 +2586,9 @@ South America,Chile,CHL,31/10/2021,1695048,37757
 South America,Chile,CHL,10/11/2021,1715352,37895
 South America,Chile,CHL,20/11/2021,1740496,38094
 South America,Chile,CHL,30/11/2021,1762751,38346
-South America,Chile,CHL,10/12/2021,0,0
-South America,Chile,CHL,20/12/2021,0,0
-South America,Chile,CHL,31/12/2021,0,0
+South America,Chile,CHL,10/12/2021,1778370,38600
+South America,Chile,CHL,20/12/2021,1792902,38885
+South America,Chile,CHL,31/12/2021,1806494,39115
 Asia,China,CHN,31/01/2020,9802,213
 Asia,China,CHN,10/02/2020,42354,1012
 Asia,China,CHN,20/02/2020,75077,2238
@@ -2656,9 +2656,9 @@ Asia,China,CHN,31/10/2021,109666,4849
 Asia,China,CHN,10/11/2021,110454,4849
 Asia,China,CHN,20/11/2021,110943,4849
 Asia,China,CHN,30/11/2021,111337,4849
-Asia,China,CHN,10/12/2021,0,0
-Asia,China,CHN,20/12/2021,0,0
-Asia,China,CHN,31/12/2021,0,0
+Asia,China,CHN,10/12/2021,112163,4849
+Asia,China,CHN,20/12/2021,113077,4849
+Asia,China,CHN,31/12/2021,115042,4849
 South America,Colombia,COL,31/01/2020,0,0
 South America,Colombia,COL,10/02/2020,0,0
 South America,Colombia,COL,20/02/2020,0,0
@@ -2726,9 +2726,9 @@ South America,Colombia,COL,31/10/2021,5002387,127281
 South America,Colombia,COL,10/11/2021,5021619,127640
 South America,Colombia,COL,20/11/2021,5045412,128054
 South America,Colombia,COL,30/11/2021,5069644,128528
-South America,Colombia,COL,10/12/2021,0,0
-South America,Colombia,COL,20/12/2021,0,0
-South America,Colombia,COL,31/12/2021,0,0
+South America,Colombia,COL,10/12/2021,5089695,129011
+South America,Colombia,COL,20/12/2021,5109022,129487
+South America,Colombia,COL,31/12/2021,5157440,129942
 Africa,Comoros,COM,31/01/2020,0,0
 Africa,Comoros,COM,10/02/2020,0,0
 Africa,Comoros,COM,20/02/2020,0,0
@@ -2796,9 +2796,9 @@ Africa,Comoros,COM,31/10/2021,4259,147
 Africa,Comoros,COM,10/11/2021,4349,147
 Africa,Comoros,COM,20/11/2021,4440,150
 Africa,Comoros,COM,30/11/2021,4501,150
-Africa,Comoros,COM,10/12/2021,0,0
-Africa,Comoros,COM,20/12/2021,0,0
-Africa,Comoros,COM,31/12/2021,0,0
+Africa,Comoros,COM,10/12/2021,4560,151
+Africa,Comoros,COM,20/12/2021,4677,152
+Africa,Comoros,COM,31/12/2021,6515,157
 Africa,Congo (Brazzaville),COG,31/01/2020,0,0
 Africa,Congo (Brazzaville),COG,10/02/2020,0,0
 Africa,Congo (Brazzaville),COG,20/02/2020,0,0
@@ -2866,9 +2866,9 @@ Africa,Congo (Brazzaville),COG,31/10/2021,17323,258
 Africa,Congo (Brazzaville),COG,10/11/2021,18153,309
 Africa,Congo (Brazzaville),COG,20/11/2021,18717,339
 Africa,Congo (Brazzaville),COG,30/11/2021,18970,354
-Africa,Congo (Brazzaville),COG,10/12/2021,0,0
-Africa,Congo (Brazzaville),COG,20/12/2021,0,0
-Africa,Congo (Brazzaville),COG,31/12/2021,0,0
+Africa,Congo (Brazzaville),COG,10/12/2021,19066,359
+Africa,Congo (Brazzaville),COG,20/12/2021,19179,365
+Africa,Congo (Brazzaville),COG,31/12/2021,20089,367
 Africa,Congo (Kinshasa),COD,31/01/2020,0,0
 Africa,Congo (Kinshasa),COD,10/02/2020,0,0
 Africa,Congo (Kinshasa),COD,20/02/2020,0,0
@@ -2936,9 +2936,9 @@ Africa,Congo (Kinshasa),COD,31/10/2021,57470,1091
 Africa,Congo (Kinshasa),COD,10/11/2021,57662,1099
 Africa,Congo (Kinshasa),COD,20/11/2021,57880,1104
 Africa,Congo (Kinshasa),COD,30/11/2021,58234,1107
-Africa,Congo (Kinshasa),COD,10/12/2021,0,0
-Africa,Congo (Kinshasa),COD,20/12/2021,0,0
-Africa,Congo (Kinshasa),COD,31/12/2021,0,0
+Africa,Congo (Kinshasa),COD,10/12/2021,59851,1118
+Africa,Congo (Kinshasa),COD,20/12/2021,67298,1126
+Africa,Congo (Kinshasa),COD,31/12/2021,74793,1205
 ,Cook Islands,COK,31/01/2020,0,0
 ,Cook Islands,COK,10/02/2020,0,0
 ,Cook Islands,COK,20/02/2020,0,0
@@ -3076,9 +3076,9 @@ North America,Costa Rica,CRI,31/10/2021,559698,7029
 North America,Costa Rica,CRI,10/11/2021,563290,7176
 North America,Costa Rica,CRI,20/11/2021,565548,7251
 North America,Costa Rica,CRI,30/11/2021,566839,7299
-North America,Costa Rica,CRI,10/12/2021,0,0
-North America,Costa Rica,CRI,20/12/2021,0,0
-North America,Costa Rica,CRI,31/12/2021,0,0
+North America,Costa Rica,CRI,10/12/2021,567995,7332
+North America,Costa Rica,CRI,20/12/2021,568538,7340
+North America,Costa Rica,CRI,31/12/2021,570556,7353
 Africa,Cote d'Ivoire,CIV,31/01/2020,0,0
 Africa,Cote d'Ivoire,CIV,10/02/2020,0,0
 Africa,Cote d'Ivoire,CIV,20/02/2020,0,0
@@ -3146,9 +3146,9 @@ Africa,Cote d'Ivoire,CIV,31/10/2021,61297,695
 Africa,Cote d'Ivoire,CIV,10/11/2021,61458,700
 Africa,Cote d'Ivoire,CIV,20/11/2021,61577,702
 Africa,Cote d'Ivoire,CIV,30/11/2021,61724,704
-Africa,Cote d'Ivoire,CIV,10/12/2021,0,0
-Africa,Cote d'Ivoire,CIV,20/12/2021,0,0
-Africa,Cote d'Ivoire,CIV,31/12/2021,0,0
+Africa,Cote d'Ivoire,CIV,10/12/2021,61882,706
+Africa,Cote d'Ivoire,CIV,20/12/2021,62166,706
+Africa,Cote d'Ivoire,CIV,31/12/2021,71004,714
 Europe,Croatia,HRV,31/01/2020,0,0
 Europe,Croatia,HRV,10/02/2020,0,0
 Europe,Croatia,HRV,20/02/2020,0,0
@@ -3216,9 +3216,9 @@ Europe,Croatia,HRV,31/10/2021,470348,9220
 Europe,Croatia,HRV,10/11/2021,514850,9655
 Europe,Croatia,HRV,20/11/2021,566118,10243
 Europe,Croatia,HRV,30/11/2021,608205,10899
-Europe,Croatia,HRV,10/12/2021,0,0
-Europe,Croatia,HRV,20/12/2021,0,0
-Europe,Croatia,HRV,31/12/2021,0,0
+Europe,Croatia,HRV,10/12/2021,648003,11516
+Europe,Croatia,HRV,20/12/2021,675730,12043
+Europe,Croatia,HRV,31/12/2021,715245,12538
 North America,Cuba,CUB,31/01/2020,0,0
 North America,Cuba,CUB,10/02/2020,0,0
 North America,Cuba,CUB,20/02/2020,0,0
@@ -3286,9 +3286,9 @@ North America,Cuba,CUB,31/10/2021,952001,8236
 North America,Cuba,CUB,10/11/2021,957332,8274
 North America,Cuba,CUB,20/11/2021,960472,8293
 North America,Cuba,CUB,30/11/2021,962486,8304
-North America,Cuba,CUB,10/12/2021,0,0
-North America,Cuba,CUB,20/12/2021,0,0
-North America,Cuba,CUB,31/12/2021,0,0
+North America,Cuba,CUB,10/12/2021,963493,8311
+North America,Cuba,CUB,20/12/2021,964176,8315
+North America,Cuba,CUB,31/12/2021,966004,8322
 Europe,Cyprus,CYP,31/01/2020,0,0
 Europe,Cyprus,CYP,10/02/2020,0,0
 Europe,Cyprus,CYP,20/02/2020,0,0
@@ -3356,9 +3356,9 @@ Europe,Cyprus,CYP,31/10/2021,124017,575
 Europe,Cyprus,CYP,10/11/2021,126497,577
 Europe,Cyprus,CYP,20/11/2021,129888,590
 Europe,Cyprus,CYP,30/11/2021,134473,597
-Europe,Cyprus,CYP,10/12/2021,0,0
-Europe,Cyprus,CYP,20/12/2021,0,0
-Europe,Cyprus,CYP,31/12/2021,0,0
+Europe,Cyprus,CYP,10/12/2021,140030,607
+Europe,Cyprus,CYP,20/12/2021,145996,623
+Europe,Cyprus,CYP,31/12/2021,166827,638
 Europe,Czechia,CZE,31/01/2020,0,0
 Europe,Czechia,CZE,10/02/2020,0,0
 Europe,Czechia,CZE,20/02/2020,0,0
@@ -3426,9 +3426,9 @@ Europe,Czechia,CZE,31/10/2021,1762902,30753
 Europe,Czechia,CZE,10/11/2021,1843019,31229
 Europe,Czechia,CZE,20/11/2021,1980849,32005
 Europe,Czechia,CZE,30/11/2021,2150042,33069
-Europe,Czechia,CZE,10/12/2021,0,0
-Europe,Czechia,CZE,20/12/2021,0,0
-Europe,Czechia,CZE,31/12/2021,0,0
+Europe,Czechia,CZE,10/12/2021,2312736,34242
+Europe,Czechia,CZE,20/12/2021,2406989,35288
+Europe,Czechia,CZE,31/12/2021,2475729,36129
 Europe,Denmark,DNK,31/01/2020,0,0
 Europe,Denmark,DNK,10/02/2020,0,0
 Europe,Denmark,DNK,20/02/2020,0,0
@@ -3496,9 +3496,9 @@ Europe,Denmark,DNK,31/10/2021,390727,2716
 Europe,Denmark,DNK,10/11/2021,414175,2751
 Europe,Denmark,DNK,20/11/2021,450974,2819
 Europe,Denmark,DNK,30/11/2021,492483,2908
-Europe,Denmark,DNK,10/12/2021,0,0
-Europe,Denmark,DNK,20/12/2021,0,0
-Europe,Denmark,DNK,31/12/2021,0,0
+Europe,Denmark,DNK,10/12/2021,548843,3009
+Europe,Denmark,DNK,20/12/2021,634060,3097
+Europe,Denmark,DNK,31/12/2021,810772,3282
 ,Djibouti,DJI,31/01/2020,0,0
 ,Djibouti,DJI,10/02/2020,0,0
 ,Djibouti,DJI,20/02/2020,0,0
@@ -3566,9 +3566,9 @@ Europe,Denmark,DNK,31/12/2021,0,0
 ,Djibouti,DJI,10/11/2021,13493,186
 ,Djibouti,DJI,20/11/2021,13501,186
 ,Djibouti,DJI,30/11/2021,13504,186
-,Djibouti,DJI,10/12/2021,0,0
-,Djibouti,DJI,20/12/2021,0,0
-,Djibouti,DJI,31/12/2021,0,0
+,Djibouti,DJI,10/12/2021,13514,188
+,Djibouti,DJI,20/12/2021,13538,189
+,Djibouti,DJI,31/12/2021,13656,189
 North America,Dominica,DMA,31/01/2020,0,0
 North America,Dominica,DMA,10/02/2020,0,0
 North America,Dominica,DMA,20/02/2020,0,0
@@ -3636,9 +3636,9 @@ North America,Dominica,DMA,31/10/2021,4823,32
 North America,Dominica,DMA,10/11/2021,5176,34
 North America,Dominica,DMA,20/11/2021,5589,35
 North America,Dominica,DMA,30/11/2021,6028,38
-North America,Dominica,DMA,10/12/2021,0,0
-North America,Dominica,DMA,20/12/2021,0,0
-North America,Dominica,DMA,31/12/2021,0,0
+North America,Dominica,DMA,10/12/2021,6233,42
+North America,Dominica,DMA,20/12/2021,6430,44
+North America,Dominica,DMA,31/12/2021,6814,47
 North America,Dominican Republic,DOM,31/01/2020,0,0
 North America,Dominican Republic,DOM,10/02/2020,0,0
 North America,Dominican Republic,DOM,20/02/2020,0,0
@@ -3706,9 +3706,9 @@ North America,Dominican Republic,DOM,31/10/2021,381667,4130
 North America,Dominican Republic,DOM,10/11/2021,391104,4157
 North America,Dominican Republic,DOM,20/11/2021,401914,4186
 North America,Dominican Republic,DOM,30/11/2021,407251,4204
-North America,Dominican Republic,DOM,10/12/2021,0,0
-North America,Dominican Republic,DOM,20/12/2021,0,0
-North America,Dominican Republic,DOM,31/12/2021,0,0
+North America,Dominican Republic,DOM,10/12/2021,409862,4218
+North America,Dominican Republic,DOM,20/12/2021,411883,4223
+North America,Dominican Republic,DOM,31/12/2021,418778,4247
 South America,Ecuador,ECU,31/01/2020,0,0
 South America,Ecuador,ECU,10/02/2020,0,0
 South America,Ecuador,ECU,20/02/2020,0,0
@@ -3776,9 +3776,9 @@ South America,Ecuador,ECU,31/10/2021,515859,32958
 South America,Ecuador,ECU,10/11/2021,519560,32989
 South America,Ecuador,ECU,20/11/2021,523847,33121
 South America,Ecuador,ECU,30/11/2021,526870,33250
-South America,Ecuador,ECU,10/12/2021,0,0
-South America,Ecuador,ECU,20/12/2021,0,0
-South America,Ecuador,ECU,31/12/2021,0,0
+South America,Ecuador,ECU,10/12/2021,530865,33498
+South America,Ecuador,ECU,20/12/2021,537032,33597
+South America,Ecuador,ECU,31/12/2021,549418,33681
 Africa,Egypt,EGY,31/01/2020,0,0
 Africa,Egypt,EGY,10/02/2020,0,0
 Africa,Egypt,EGY,20/02/2020,1,0
@@ -3846,9 +3846,9 @@ Africa,Egypt,EGY,31/10/2021,331017,18651
 Africa,Egypt,EGY,10/11/2021,340269,19249
 Africa,Egypt,EGY,20/11/2021,349513,19872
 Africa,Egypt,EGY,30/11/2021,358578,20474
-Africa,Egypt,EGY,10/12/2021,0,0
-Africa,Egypt,EGY,20/12/2021,0,0
-Africa,Egypt,EGY,31/12/2021,0,0
+Africa,Egypt,EGY,10/12/2021,367456,20966
+Africa,Egypt,EGY,20/12/2021,376233,21410
+Africa,Egypt,EGY,31/12/2021,385575,21752
 North America,El Salvador,SLV,31/01/2020,0,0
 North America,El Salvador,SLV,10/02/2020,0,0
 North America,El Salvador,SLV,20/02/2020,0,0
@@ -3916,9 +3916,9 @@ North America,El Salvador,SLV,31/10/2021,113422,3629
 North America,El Salvador,SLV,10/11/2021,117350,3704
 North America,El Salvador,SLV,20/11/2021,118041,3751
 North America,El Salvador,SLV,30/11/2021,119803,3776
-North America,El Salvador,SLV,10/12/2021,0,0
-North America,El Salvador,SLV,20/12/2021,0,0
-North America,El Salvador,SLV,31/12/2021,0,0
+North America,El Salvador,SLV,10/12/2021,119803,3792
+North America,El Salvador,SLV,20/12/2021,121530,3809
+North America,El Salvador,SLV,31/12/2021,121945,3824
 ,Equatorial Guinea,GNQ,31/01/2020,0,0
 ,Equatorial Guinea,GNQ,10/02/2020,0,0
 ,Equatorial Guinea,GNQ,20/02/2020,0,0
@@ -3986,9 +3986,9 @@ North America,El Salvador,SLV,31/12/2021,0,0
 ,Equatorial Guinea,GNQ,10/11/2021,13459,168
 ,Equatorial Guinea,GNQ,20/11/2021,13538,170
 ,Equatorial Guinea,GNQ,30/11/2021,13592,175
-,Equatorial Guinea,GNQ,10/12/2021,0,0
-,Equatorial Guinea,GNQ,20/12/2021,0,0
-,Equatorial Guinea,GNQ,31/12/2021,0,0
+,Equatorial Guinea,GNQ,10/12/2021,13612,175
+,Equatorial Guinea,GNQ,20/12/2021,13618,175
+,Equatorial Guinea,GNQ,31/12/2021,13710,175
 Africa,Eritrea,ERI,31/01/2020,0,0
 Africa,Eritrea,ERI,10/02/2020,0,0
 Africa,Eritrea,ERI,20/02/2020,0,0
@@ -4056,9 +4056,9 @@ Africa,Eritrea,ERI,31/10/2021,6834,45
 Africa,Eritrea,ERI,10/11/2021,7003,48
 Africa,Eritrea,ERI,20/11/2021,7156,54
 Africa,Eritrea,ERI,30/11/2021,7358,60
-Africa,Eritrea,ERI,10/12/2021,0,0
-Africa,Eritrea,ERI,20/12/2021,0,0
-Africa,Eritrea,ERI,31/12/2021,0,0
+Africa,Eritrea,ERI,10/12/2021,7616,63
+Africa,Eritrea,ERI,20/12/2021,7779,70
+Africa,Eritrea,ERI,31/12/2021,8011,76
 Europe,Estonia,EST,31/01/2020,0,0
 Europe,Estonia,EST,10/02/2020,0,0
 Europe,Estonia,EST,20/02/2020,0,0
@@ -4126,9 +4126,9 @@ Europe,Estonia,EST,31/10/2021,193969,1531
 Europe,Estonia,EST,10/11/2021,208326,1637
 Europe,Estonia,EST,20/11/2021,216544,1728
 Europe,Estonia,EST,30/11/2021,222584,1800
-Europe,Estonia,EST,10/12/2021,0,0
-Europe,Estonia,EST,20/12/2021,0,0
-Europe,Estonia,EST,31/12/2021,0,0
+Europe,Estonia,EST,10/12/2021,227446,1845
+Europe,Estonia,EST,20/12/2021,232506,1888
+Europe,Estonia,EST,31/12/2021,241408,1932
 ,Eswatini,SWZ,31/01/2020,0,0
 ,Eswatini,SWZ,10/02/2020,0,0
 ,Eswatini,SWZ,20/02/2020,0,0
@@ -4196,9 +4196,9 @@ Europe,Estonia,EST,31/12/2021,0,0
 ,Eswatini,SWZ,10/11/2021,46464,1245
 ,Eswatini,SWZ,20/11/2021,46486,1248
 ,Eswatini,SWZ,30/11/2021,46656,1248
-,Eswatini,SWZ,10/12/2021,0,0
-,Eswatini,SWZ,20/12/2021,0,0
-,Eswatini,SWZ,31/12/2021,0,0
+,Eswatini,SWZ,10/12/2021,51172,1248
+,Eswatini,SWZ,20/12/2021,61146,1263
+,Eswatini,SWZ,31/12/2021,66109,1303
 Africa,Ethiopia,ETH,31/01/2020,0,0
 Africa,Ethiopia,ETH,10/02/2020,0,0
 Africa,Ethiopia,ETH,20/02/2020,0,0
@@ -4266,9 +4266,9 @@ Africa,Ethiopia,ETH,31/10/2021,365167,6459
 Africa,Ethiopia,ETH,10/11/2021,367857,6572
 Africa,Ethiopia,ETH,20/11/2021,370045,6672
 Africa,Ethiopia,ETH,30/11/2021,371536,6755
-Africa,Ethiopia,ETH,10/12/2021,0,0
-Africa,Ethiopia,ETH,20/12/2021,0,0
-Africa,Ethiopia,ETH,31/12/2021,0,0
+Africa,Ethiopia,ETH,10/12/2021,372868,6822
+Africa,Ethiopia,ETH,20/12/2021,377056,6872
+Africa,Ethiopia,ETH,31/12/2021,420342,6937
 Oceania,Fiji,FJI,31/01/2020,0,0
 Oceania,Fiji,FJI,10/02/2020,0,0
 Oceania,Fiji,FJI,20/02/2020,0,0
@@ -4336,9 +4336,9 @@ Oceania,Fiji,FJI,31/10/2021,52141,674
 Oceania,Fiji,FJI,10/11/2021,52356,679
 Oceania,Fiji,FJI,20/11/2021,52453,695
 Oceania,Fiji,FJI,30/11/2021,52506,696
-Oceania,Fiji,FJI,10/12/2021,0,0
-Oceania,Fiji,FJI,20/12/2021,0,0
-Oceania,Fiji,FJI,31/12/2021,0,0
+Oceania,Fiji,FJI,10/12/2021,52577,697
+Oceania,Fiji,FJI,20/12/2021,52651,697
+Oceania,Fiji,FJI,31/12/2021,53332,698
 Europe,Finland,FIN,31/01/2020,1,0
 Europe,Finland,FIN,10/02/2020,1,0
 Europe,Finland,FIN,20/02/2020,1,0
@@ -4406,9 +4406,9 @@ Europe,Finland,FIN,31/10/2021,157531,1158
 Europe,Finland,FIN,10/11/2021,166256,1212
 Europe,Finland,FIN,20/11/2021,174823,1249
 Europe,Finland,FIN,30/11/2021,186538,1335
-Europe,Finland,FIN,10/12/2021,0,0
-Europe,Finland,FIN,20/12/2021,0,0
-Europe,Finland,FIN,31/12/2021,0,0
+Europe,Finland,FIN,10/12/2021,201051,1421
+Europe,Finland,FIN,20/12/2021,219250,1493
+Europe,Finland,FIN,31/12/2021,260292,1564
 Europe,France,FRA,31/01/2020,5,0
 Europe,France,FRA,10/02/2020,11,0
 Europe,France,FRA,20/02/2020,12,1
@@ -4476,9 +4476,9 @@ Europe,France,FRA,31/10/2021,7268527,118625
 Europe,France,FRA,10/11/2021,7346277,119003
 Europe,France,FRA,20/11/2021,7497912,119407
 Europe,France,FRA,30/11/2021,7778575,120112
-Europe,France,FRA,10/12/2021,0,0
-Europe,France,FRA,20/12/2021,0,0
-Europe,France,FRA,31/12/2021,0,0
+Europe,France,FRA,10/12/2021,8265076,121301
+Europe,France,FRA,20/12/2021,8745272,122702
+Europe,France,FRA,31/12/2021,10077783,124729
 Africa,Gabon,GAB,31/01/2020,0,0
 Africa,Gabon,GAB,10/02/2020,0,0
 Africa,Gabon,GAB,20/02/2020,0,0
@@ -4546,9 +4546,9 @@ Africa,Gabon,GAB,31/10/2021,35525,239
 Africa,Gabon,GAB,10/11/2021,36587,262
 Africa,Gabon,GAB,20/11/2021,37045,273
 Africa,Gabon,GAB,30/11/2021,37342,279
-Africa,Gabon,GAB,10/12/2021,0,0
-Africa,Gabon,GAB,20/12/2021,0,0
-Africa,Gabon,GAB,31/12/2021,0,0
+Africa,Gabon,GAB,10/12/2021,37551,281
+Africa,Gabon,GAB,20/12/2021,37830,286
+Africa,Gabon,GAB,31/12/2021,41798,288
 Africa,Gambia,GMB,31/01/2020,0,0
 Africa,Gambia,GMB,10/02/2020,0,0
 Africa,Gambia,GMB,20/02/2020,0,0
@@ -4616,9 +4616,9 @@ Africa,Gambia,GMB,31/10/2021,9965,340
 Africa,Gambia,GMB,10/11/2021,9980,341
 Africa,Gambia,GMB,20/11/2021,9986,341
 Africa,Gambia,GMB,30/11/2021,9989,342
-Africa,Gambia,GMB,10/12/2021,0,0
-Africa,Gambia,GMB,20/12/2021,0,0
-Africa,Gambia,GMB,31/12/2021,0,0
+Africa,Gambia,GMB,10/12/2021,9998,342
+Africa,Gambia,GMB,20/12/2021,10051,342
+Africa,Gambia,GMB,31/12/2021,10170,343
 Asia,Georgia,GEO,31/01/2020,0,0
 Asia,Georgia,GEO,10/02/2020,0,0
 Asia,Georgia,GEO,20/02/2020,0,0
@@ -4686,9 +4686,9 @@ Asia,Georgia,GEO,31/10/2021,719247,10045
 Asia,Georgia,GEO,10/11/2021,766818,10662
 Asia,Georgia,GEO,20/11/2021,808889,11422
 Asia,Georgia,GEO,30/11/2021,845643,12054
-Asia,Georgia,GEO,10/12/2021,0,0
-Asia,Georgia,GEO,20/12/2021,0,0
-Asia,Georgia,GEO,31/12/2021,0,0
+Asia,Georgia,GEO,10/12/2021,882822,12631
+Asia,Georgia,GEO,20/12/2021,910456,13116
+Asia,Georgia,GEO,31/12/2021,934741,13800
 Europe,Germany,DEU,31/01/2020,5,0
 Europe,Germany,DEU,10/02/2020,14,0
 Europe,Germany,DEU,20/02/2020,16,0
@@ -4756,9 +4756,9 @@ Europe,Germany,DEU,31/10/2021,4607958,95735
 Europe,Germany,DEU,10/11/2021,4908540,97203
 Europe,Germany,DEU,20/11/2021,5374446,99067
 Europe,Germany,DEU,30/11/2021,5923564,101794
-Europe,Germany,DEU,10/12/2021,0,0
-Europe,Germany,DEU,20/12/2021,0,0
-Europe,Germany,DEU,31/12/2021,0,0
+Europe,Germany,DEU,10/12/2021,6496142,105510
+Europe,Germany,DEU,20/12/2021,6834488,108818
+Europe,Germany,DEU,31/12/2021,7193186,112111
 Africa,Ghana,GHA,31/01/2020,0,0
 Africa,Ghana,GHA,10/02/2020,0,0
 Africa,Ghana,GHA,20/02/2020,0,0
@@ -4826,9 +4826,9 @@ Africa,Ghana,GHA,31/10/2021,130077,1175
 Africa,Ghana,GHA,10/11/2021,130608,1203
 Africa,Ghana,GHA,20/11/2021,130727,1207
 Africa,Ghana,GHA,30/11/2021,130920,1209
-Africa,Ghana,GHA,10/12/2021,0,0
-Africa,Ghana,GHA,20/12/2021,0,0
-Africa,Ghana,GHA,31/12/2021,0,0
+Africa,Ghana,GHA,10/12/2021,131246,1228
+Africa,Ghana,GHA,20/12/2021,132132,1257
+Africa,Ghana,GHA,31/12/2021,142986,1295
 Europe,Greece,GRC,31/01/2020,0,0
 Europe,Greece,GRC,10/02/2020,0,0
 Europe,Greece,GRC,20/02/2020,0,0
@@ -4896,9 +4896,9 @@ Europe,Greece,GRC,31/10/2021,742170,15938
 Europe,Greece,GRC,10/11/2021,808297,16493
 Europe,Greece,GRC,20/11/2021,874812,17237
 Europe,Greece,GRC,30/11/2021,938903,18157
-Europe,Greece,GRC,10/12/2021,0,0
-Europe,Greece,GRC,20/12/2021,0,0
-Europe,Greece,GRC,31/12/2021,0,0
+Europe,Greece,GRC,10/12/2021,994901,19085
+Europe,Greece,GRC,20/12/2021,1037759,19976
+Europe,Greece,GRC,31/12/2021,1210853,20790
 North America,Grenada,GRD,31/01/2020,0,0
 North America,Grenada,GRD,10/02/2020,0,0
 North America,Grenada,GRD,20/02/2020,0,0
@@ -4966,9 +4966,9 @@ North America,Grenada,GRD,31/10/2021,5840,198
 North America,Grenada,GRD,10/11/2021,5863,200
 North America,Grenada,GRD,20/11/2021,5866,200
 North America,Grenada,GRD,30/11/2021,5897,200
-North America,Grenada,GRD,10/12/2021,0,0
-North America,Grenada,GRD,20/12/2021,0,0
-North America,Grenada,GRD,31/12/2021,0,0
+North America,Grenada,GRD,10/12/2021,5913,200
+North America,Grenada,GRD,20/12/2021,5920,200
+North America,Grenada,GRD,31/12/2021,6181,200
 Oceania,Guam,GUM,31/01/2020,0,0
 Oceania,Guam,GUM,10/02/2020,0,0
 Oceania,Guam,GUM,20/02/2020,0,0
@@ -5106,9 +5106,9 @@ North America,Guatemala,GTM,31/10/2021,601572,15094
 North America,Guatemala,GTM,10/11/2021,607497,15578
 North America,Guatemala,GTM,20/11/2021,613713,15837
 North America,Guatemala,GTM,30/11/2021,617984,15943
-North America,Guatemala,GTM,10/12/2021,0,0
-North America,Guatemala,GTM,20/12/2021,0,0
-North America,Guatemala,GTM,31/12/2021,0,0
+North America,Guatemala,GTM,10/12/2021,621844,16029
+North America,Guatemala,GTM,20/12/2021,623795,16077
+North America,Guatemala,GTM,31/12/2021,628359,16107
 Africa,Guinea,GIN,31/01/2020,0,0
 Africa,Guinea,GIN,10/02/2020,0,0
 Africa,Guinea,GIN,20/02/2020,0,0
@@ -5176,9 +5176,9 @@ Africa,Guinea,GIN,31/10/2021,30653,385
 Africa,Guinea,GIN,10/11/2021,30709,387
 Africa,Guinea,GIN,20/11/2021,30715,387
 Africa,Guinea,GIN,30/11/2021,30770,387
-Africa,Guinea,GIN,10/12/2021,0,0
-Africa,Guinea,GIN,20/12/2021,0,0
-Africa,Guinea,GIN,31/12/2021,0,0
+Africa,Guinea,GIN,10/12/2021,30798,388
+Africa,Guinea,GIN,20/12/2021,30814,388
+Africa,Guinea,GIN,31/12/2021,32051,391
 Africa,Guinea-Bissau,GNB,31/01/2020,0,0
 Africa,Guinea-Bissau,GNB,10/02/2020,0,0
 Africa,Guinea-Bissau,GNB,20/02/2020,0,0
@@ -5246,9 +5246,9 @@ Africa,Guinea-Bissau,GNB,31/10/2021,6134,141
 Africa,Guinea-Bissau,GNB,10/11/2021,6203,143
 Africa,Guinea-Bissau,GNB,20/11/2021,6434,146
 Africa,Guinea-Bissau,GNB,30/11/2021,6440,148
-Africa,Guinea-Bissau,GNB,10/12/2021,0,0
-Africa,Guinea-Bissau,GNB,20/12/2021,0,0
-Africa,Guinea-Bissau,GNB,31/12/2021,0,0
+Africa,Guinea-Bissau,GNB,10/12/2021,6447,149
+Africa,Guinea-Bissau,GNB,20/12/2021,6456,149
+Africa,Guinea-Bissau,GNB,31/12/2021,6484,149
 South America,Guyana,GUY,31/01/2020,0,0
 South America,Guyana,GUY,10/02/2020,0,0
 South America,Guyana,GUY,20/02/2020,0,0
@@ -5316,9 +5316,9 @@ South America,Guyana,GUY,31/10/2021,35548,913
 South America,Guyana,GUY,10/11/2021,36439,952
 South America,Guyana,GUY,20/11/2021,37184,971
 South America,Guyana,GUY,30/11/2021,37874,994
-South America,Guyana,GUY,10/12/2021,0,0
-South America,Guyana,GUY,20/12/2021,0,0
-South America,Guyana,GUY,31/12/2021,0,0
+South America,Guyana,GUY,10/12/2021,38453,1016
+South America,Guyana,GUY,20/12/2021,38891,1033
+South America,Guyana,GUY,31/12/2021,39573,1054
 North America,Haiti,HTI,31/01/2020,0,0
 North America,Haiti,HTI,10/02/2020,0,0
 North America,Haiti,HTI,20/02/2020,0,0
@@ -5386,9 +5386,9 @@ North America,Haiti,HTI,31/10/2021,23960,671
 North America,Haiti,HTI,10/11/2021,24233,702
 North America,Haiti,HTI,20/11/2021,24768,711
 North America,Haiti,HTI,30/11/2021,25175,738
-North America,Haiti,HTI,10/12/2021,0,0
-North America,Haiti,HTI,20/12/2021,0,0
-North America,Haiti,HTI,31/12/2021,0,0
+North America,Haiti,HTI,10/12/2021,25744,758
+North America,Haiti,HTI,20/12/2021,25923,765
+North America,Haiti,HTI,31/12/2021,25985,766
 North America,Honduras,HND,31/01/2020,0,0
 North America,Honduras,HND,10/02/2020,0,0
 North America,Honduras,HND,20/02/2020,0,0
@@ -5456,9 +5456,9 @@ North America,Honduras,HND,31/10/2021,375381,10239
 North America,Honduras,HND,10/11/2021,376676,10335
 North America,Honduras,HND,20/11/2021,377420,10387
 North America,Honduras,HND,30/11/2021,377859,10402
-North America,Honduras,HND,10/12/2021,0,0
-North America,Honduras,HND,20/12/2021,0,0
-North America,Honduras,HND,31/12/2021,0,0
+North America,Honduras,HND,10/12/2021,378423,10415
+North America,Honduras,HND,20/12/2021,378685,10423
+North America,Honduras,HND,31/12/2021,379402,10433
 Europe,Hungary,HUN,31/01/2020,0,0
 Europe,Hungary,HUN,10/02/2020,0,0
 Europe,Hungary,HUN,20/02/2020,0,0
@@ -5526,9 +5526,9 @@ Europe,Hungary,HUN,31/10/2021,863419,30729
 Europe,Hungary,HUN,10/11/2021,923020,31619
 Europe,Hungary,HUN,20/11/2021,998488,32780
 Europe,Hungary,HUN,30/11/2021,1103108,34521
-Europe,Hungary,HUN,10/12/2021,0,0
-Europe,Hungary,HUN,20/12/2021,0,0
-Europe,Hungary,HUN,31/12/2021,0,0
+Europe,Hungary,HUN,10/12/2021,1182922,36429
+Europe,Hungary,HUN,20/12/2021,1228400,37896
+Europe,Hungary,HUN,31/12/2021,1256415,39186
 Europe,Iceland,ISL,31/01/2020,0,0
 Europe,Iceland,ISL,10/02/2020,0,0
 Europe,Iceland,ISL,20/02/2020,0,0
@@ -5596,9 +5596,9 @@ Europe,Iceland,ISL,31/10/2021,13492,33
 Europe,Iceland,ISL,10/11/2021,14935,34
 Europe,Iceland,ISL,20/11/2021,16435,34
 Europe,Iceland,ISL,30/11/2021,17894,35
-Europe,Iceland,ISL,10/12/2021,0,0
-Europe,Iceland,ISL,20/12/2021,0,0
-Europe,Iceland,ISL,31/12/2021,0,0
+Europe,Iceland,ISL,10/12/2021,19159,35
+Europe,Iceland,ISL,20/12/2021,20890,37
+Europe,Iceland,ISL,31/12/2021,27059,37
 Asia,India,IND,31/01/2020,1,0
 Asia,India,IND,10/02/2020,3,0
 Asia,India,IND,20/02/2020,3,0
@@ -5666,9 +5666,9 @@ Asia,India,IND,31/10/2021,34285814,458437
 Asia,India,IND,10/11/2021,34401670,462189
 Asia,India,IND,20/11/2021,34510413,465662
 Asia,India,IND,30/11/2021,34596776,469247
-Asia,India,IND,10/12/2021,0,0
-Asia,India,IND,20/12/2021,0,0
-Asia,India,IND,31/12/2021,0,0
+Asia,India,IND,10/12/2021,34682633,474872
+Asia,India,IND,20/12/2021,34752164,478007
+Asia,India,IND,31/12/2021,34861579,481486
 Asia,Indonesia,IDN,31/01/2020,0,0
 Asia,Indonesia,IDN,10/02/2020,0,0
 Asia,Indonesia,IDN,20/02/2020,0,0
@@ -5736,9 +5736,9 @@ Asia,Indonesia,IDN,31/10/2021,4244358,143405
 Asia,Indonesia,IDN,10/11/2021,4249323,143592
 Asia,Indonesia,IDN,20/11/2021,4253098,143728
 Asia,Indonesia,IDN,30/11/2021,4256409,143830
-Asia,Indonesia,IDN,10/12/2021,0,0
-Asia,Indonesia,IDN,20/12/2021,0,0
-Asia,Indonesia,IDN,31/12/2021,0,0
+Asia,Indonesia,IDN,10/12/2021,4258752,143923
+Asia,Indonesia,IDN,20/12/2021,4260677,144013
+Asia,Indonesia,IDN,31/12/2021,4262720,144094
 Asia,Iran,IRN,31/01/2020,0,0
 Asia,Iran,IRN,10/02/2020,0,0
 Asia,Iran,IRN,20/02/2020,5,2
@@ -5806,9 +5806,9 @@ Asia,Iran,IRN,31/10/2021,5924638,126303
 Asia,Iran,IRN,10/11/2021,6012408,127686
 Asia,Iran,IRN,20/11/2021,6073098,128852
 Asia,Iran,IRN,30/11/2021,6117445,129830
-Asia,Iran,IRN,10/12/2021,0,0
-Asia,Iran,IRN,20/12/2021,0,0
-Asia,Iran,IRN,31/12/2021,0,0
+Asia,Iran,IRN,10/12/2021,6150843,130603
+Asia,Iran,IRN,20/12/2021,6173369,131124
+Asia,Iran,IRN,31/12/2021,6194401,131606
 Asia,Iraq,IRQ,31/01/2020,0,0
 Asia,Iraq,IRQ,10/02/2020,0,0
 Asia,Iraq,IRQ,20/02/2020,0,0
@@ -5876,9 +5876,9 @@ Asia,Iraq,IRQ,31/10/2021,2055248,23170
 Asia,Iraq,IRQ,10/11/2021,2066042,23415
 Asia,Iraq,IRQ,20/11/2021,2073835,23642
 Asia,Iraq,IRQ,30/11/2021,2081172,23820
-Asia,Iraq,IRQ,10/12/2021,0,0
-Asia,Iraq,IRQ,20/12/2021,0,0
-Asia,Iraq,IRQ,31/12/2021,0,0
+Asia,Iraq,IRQ,10/12/2021,2087247,23959
+Asia,Iraq,IRQ,20/12/2021,2090844,24074
+Asia,Iraq,IRQ,31/12/2021,2093740,24158
 Europe,Ireland,IRL,31/01/2020,0,0
 Europe,Ireland,IRL,10/02/2020,0,0
 Europe,Ireland,IRL,20/02/2020,0,0
@@ -5946,9 +5946,9 @@ Europe,Ireland,IRL,31/10/2021,445594,5436
 Europe,Ireland,IRL,10/11/2021,480846,5566
 Europe,Ireland,IRL,20/11/2021,524783,5609
 Europe,Ireland,IRL,30/11/2021,570115,5652
-Europe,Ireland,IRL,10/12/2021,0,0
-Europe,Ireland,IRL,20/12/2021,0,0
-Europe,Ireland,IRL,31/12/2021,0,0
+Europe,Ireland,IRL,10/12/2021,614952,5788
+Europe,Ireland,IRL,20/12/2021,661388,5835
+Europe,Ireland,IRL,31/12/2021,788559,5912
 Asia,Israel,ISR,31/01/2020,0,0
 Asia,Israel,ISR,10/02/2020,0,0
 Asia,Israel,ISR,20/02/2020,0,0
@@ -6016,9 +6016,9 @@ Asia,Israel,ISR,31/10/2021,1327458,8100
 Asia,Israel,ISR,10/11/2021,1335654,8133
 Asia,Israel,ISR,20/11/2021,1340084,8154
 Asia,Israel,ISR,30/11/2021,1343660,8196
-Asia,Israel,ISR,10/12/2021,0,0
-Asia,Israel,ISR,20/12/2021,0,0
-Asia,Israel,ISR,31/12/2021,0,0
+Asia,Israel,ISR,10/12/2021,1349385,8210
+Asia,Israel,ISR,20/12/2021,1356847,8232
+Asia,Israel,ISR,31/12/2021,1383932,8243
 Europe,Italy,ITA,31/01/2020,2,0
 Europe,Italy,ITA,10/02/2020,3,0
 Europe,Italy,ITA,20/02/2020,3,0
@@ -6086,9 +6086,9 @@ Europe,Italy,ITA,31/10/2021,4771965,132100
 Europe,Italy,ITA,10/11/2021,4826738,132551
 Europe,Italy,ITA,20/11/2021,4915981,133131
 Europe,Italy,ITA,30/11/2021,5028547,133828
-Europe,Italy,ITA,10/12/2021,0,0
-Europe,Italy,ITA,20/12/2021,0,0
-Europe,Italy,ITA,31/12/2021,0,0
+Europe,Italy,ITA,10/12/2021,5185270,134669
+Europe,Italy,ITA,20/12/2021,5405360,135778
+Europe,Italy,ITA,31/12/2021,6125683,137402
 North America,Jamaica,JAM,31/01/2020,0,0
 North America,Jamaica,JAM,10/02/2020,0,0
 North America,Jamaica,JAM,20/02/2020,0,0
@@ -6156,9 +6156,9 @@ North America,Jamaica,JAM,31/10/2021,89014,2236
 North America,Jamaica,JAM,10/11/2021,89818,2298
 North America,Jamaica,JAM,20/11/2021,90630,2356
 North America,Jamaica,JAM,30/11/2021,91249,2392
-North America,Jamaica,JAM,10/12/2021,0,0
-North America,Jamaica,JAM,20/12/2021,0,0
-North America,Jamaica,JAM,31/12/2021,0,0
+North America,Jamaica,JAM,10/12/2021,91652,2418
+North America,Jamaica,JAM,20/12/2021,92089,2449
+North America,Jamaica,JAM,31/12/2021,93920,2473
 Asia,Japan,JPN,31/01/2020,15,0
 Asia,Japan,JPN,10/02/2020,26,0
 Asia,Japan,JPN,20/02/2020,95,2
@@ -6226,9 +6226,9 @@ Asia,Japan,JPN,31/10/2021,1722343,18264
 Asia,Japan,JPN,10/11/2021,1724172,18315
 Asia,Japan,JPN,20/11/2021,1725715,18343
 Asia,Japan,JPN,30/11/2021,1726636,18357
-Asia,Japan,JPN,10/12/2021,0,0
-Asia,Japan,JPN,20/12/2021,0,0
-Asia,Japan,JPN,31/12/2021,0,0
+Asia,Japan,JPN,10/12/2021,1727794,18368
+Asia,Japan,JPN,20/12/2021,1729139,18376
+Asia,Japan,JPN,31/12/2021,1732296,18389
 Asia,Jordan,JOR,31/01/2020,0,0
 Asia,Jordan,JOR,10/02/2020,0,0
 Asia,Jordan,JOR,20/02/2020,0,0
@@ -6296,9 +6296,9 @@ Asia,Jordan,JOR,31/10/2021,862541,11038
 Asia,Jordan,JOR,10/11/2021,883446,11167
 Asia,Jordan,JOR,20/11/2021,911270,11347
 Asia,Jordan,JOR,30/11/2021,953943,11608
-Asia,Jordan,JOR,10/12/2021,0,0
-Asia,Jordan,JOR,20/12/2021,0,0
-Asia,Jordan,JOR,31/12/2021,0,0
+Asia,Jordan,JOR,10/12/2021,1003428,11917
+Asia,Jordan,JOR,20/12/2021,1040243,12268
+Asia,Jordan,JOR,31/12/2021,1047953,12372
 Asia,Kazakhstan,KAZ,31/01/2020,0,0
 Asia,Kazakhstan,KAZ,10/02/2020,0,0
 Asia,Kazakhstan,KAZ,20/02/2020,0,0
@@ -6366,9 +6366,9 @@ Asia,Kazakhstan,KAZ,31/10/2021,1020264,17078
 Asia,Kazakhstan,KAZ,10/11/2021,1033639,17396
 Asia,Kazakhstan,KAZ,20/11/2021,1045783,17625
 Asia,Kazakhstan,KAZ,30/11/2021,1054972,17845
-Asia,Kazakhstan,KAZ,10/12/2021,0,0
-Asia,Kazakhstan,KAZ,20/12/2021,0,0
-Asia,Kazakhstan,KAZ,31/12/2021,0,0
+Asia,Kazakhstan,KAZ,10/12/2021,1062279,18005
+Asia,Kazakhstan,KAZ,20/12/2021,1067309,18119
+Asia,Kazakhstan,KAZ,31/12/2021,1072518,18211
 Africa,Kenya,KEN,31/01/2020,0,0
 Africa,Kenya,KEN,10/02/2020,0,0
 Africa,Kenya,KEN,20/02/2020,0,0
@@ -6436,9 +6436,9 @@ Africa,Kenya,KEN,31/10/2021,253310,5281
 Africa,Kenya,KEN,10/11/2021,254057,5314
 Africa,Kenya,KEN,20/11/2021,254688,5325
 Africa,Kenya,KEN,30/11/2021,255088,5335
-Africa,Kenya,KEN,10/12/2021,0,0
-Africa,Kenya,KEN,20/12/2021,0,0
-Africa,Kenya,KEN,31/12/2021,0,0
+Africa,Kenya,KEN,10/12/2021,255932,5342
+Africa,Kenya,KEN,20/12/2021,264727,5353
+Africa,Kenya,KEN,31/12/2021,295028,5378
 ,Kiribati,KIR,31/01/2020,0,0
 ,Kiribati,KIR,10/02/2020,0,0
 ,Kiribati,KIR,20/02/2020,0,0
@@ -6506,9 +6506,9 @@ Africa,Kenya,KEN,31/12/2021,0,0
 ,Kiribati,KIR,10/11/2021,2,0
 ,Kiribati,KIR,20/11/2021,2,0
 ,Kiribati,KIR,30/11/2021,2,0
-,Kiribati,KIR,10/12/2021,0,0
-,Kiribati,KIR,20/12/2021,0,0
-,Kiribati,KIR,31/12/2021,0,0
+,Kiribati,KIR,10/12/2021,2,0
+,Kiribati,KIR,20/12/2021,2,0
+,Kiribati,KIR,31/12/2021,2,0
 Asia,Kuwait,KWT,31/01/2020,0,0
 Asia,Kuwait,KWT,10/02/2020,0,0
 Asia,Kuwait,KWT,20/02/2020,0,0
@@ -6576,9 +6576,9 @@ Asia,Kuwait,KWT,31/10/2021,412678,2461
 Asia,Kuwait,KWT,10/11/2021,412916,2462
 Asia,Kuwait,KWT,20/11/2021,413120,2464
 Asia,Kuwait,KWT,30/11/2021,413362,2465
-Asia,Kuwait,KWT,10/12/2021,0,0
-Asia,Kuwait,KWT,20/12/2021,0,0
-Asia,Kuwait,KWT,31/12/2021,0,0
+Asia,Kuwait,KWT,10/12/2021,413637,2466
+Asia,Kuwait,KWT,20/12/2021,414178,2466
+Asia,Kuwait,KWT,31/12/2021,417135,2468
 Asia,Kyrgyzstan,KGZ,31/01/2020,0,0
 Asia,Kyrgyzstan,KGZ,10/02/2020,0,0
 Asia,Kyrgyzstan,KGZ,20/02/2020,0,0
@@ -6646,9 +6646,9 @@ Asia,Kyrgyzstan,KGZ,31/10/2021,181259,2671
 Asia,Kyrgyzstan,KGZ,10/11/2021,181982,2694
 Asia,Kyrgyzstan,KGZ,20/11/2021,182780,2720
 Asia,Kyrgyzstan,KGZ,30/11/2021,183351,2746
-Asia,Kyrgyzstan,KGZ,10/12/2021,0,0
-Asia,Kyrgyzstan,KGZ,20/12/2021,0,0
-Asia,Kyrgyzstan,KGZ,31/12/2021,0,0
+Asia,Kyrgyzstan,KGZ,10/12/2021,183863,2766
+Asia,Kyrgyzstan,KGZ,20/12/2021,184218,2784
+Asia,Kyrgyzstan,KGZ,31/12/2021,184689,2802
 Asia,Laos,LAO,31/01/2020,0,0
 Asia,Laos,LAO,10/02/2020,0,0
 Asia,Laos,LAO,20/02/2020,0,0
@@ -6716,9 +6716,9 @@ Asia,Laos,LAO,31/10/2021,40271,65
 Asia,Laos,LAO,10/11/2021,50031,91
 Asia,Laos,LAO,20/11/2021,61239,126
 Asia,Laos,LAO,30/11/2021,73738,170
-Asia,Laos,LAO,10/12/2021,0,0
-Asia,Laos,LAO,20/12/2021,0,0
-Asia,Laos,LAO,31/12/2021,0,0
+Asia,Laos,LAO,10/12/2021,86148,231
+Asia,Laos,LAO,20/12/2021,99396,274
+Asia,Laos,LAO,31/12/2021,111060,372
 Europe,Latvia,LVA,31/01/2020,0,0
 Europe,Latvia,LVA,10/02/2020,0,0
 Europe,Latvia,LVA,20/02/2020,0,0
@@ -6786,9 +6786,9 @@ Europe,Latvia,LVA,31/10/2021,219139,3253
 Europe,Latvia,LVA,10/11/2021,235387,3598
 Europe,Latvia,LVA,20/11/2021,245623,3940
 Europe,Latvia,LVA,30/11/2021,253659,4179
-Europe,Latvia,LVA,10/12/2021,0,0
-Europe,Latvia,LVA,20/12/2021,0,0
-Europe,Latvia,LVA,31/12/2021,0,0
+Europe,Latvia,LVA,10/12/2021,260658,4360
+Europe,Latvia,LVA,20/12/2021,267465,4454
+Europe,Latvia,LVA,31/12/2021,276674,4570
 Asia,Lebanon,LBN,31/01/2020,0,0
 Asia,Lebanon,LBN,10/02/2020,0,0
 Asia,Lebanon,LBN,20/02/2020,0,0
@@ -6856,9 +6856,9 @@ Asia,Lebanon,LBN,31/10/2021,642024,8502
 Asia,Lebanon,LBN,10/11/2021,648782,8561
 Asia,Lebanon,LBN,20/11/2021,658467,8635
 Asia,Lebanon,LBN,30/11/2021,670656,8725
-Asia,Lebanon,LBN,10/12/2021,0,0
-Asia,Lebanon,LBN,20/12/2021,0,0
-Asia,Lebanon,LBN,31/12/2021,0,0
+Asia,Lebanon,LBN,10/12/2021,686725,8824
+Asia,Lebanon,LBN,20/12/2021,701749,8950
+Asia,Lebanon,LBN,31/12/2021,727930,9119
 ,Lesotho,LSO,31/01/2020,0,0
 ,Lesotho,LSO,10/02/2020,0,0
 ,Lesotho,LSO,20/02/2020,0,0
@@ -6926,9 +6926,9 @@ Asia,Lebanon,LBN,31/12/2021,0,0
 ,Lesotho,LSO,10/11/2021,21687,660
 ,Lesotho,LSO,20/11/2021,21726,661
 ,Lesotho,LSO,30/11/2021,21779,662
-,Lesotho,LSO,10/12/2021,0,0
-,Lesotho,LSO,20/12/2021,0,0
-,Lesotho,LSO,31/12/2021,0,0
+,Lesotho,LSO,10/12/2021,22448,664
+,Lesotho,LSO,20/12/2021,25609,665
+,Lesotho,LSO,31/12/2021,28408,665
 Africa,Liberia,LBR,31/01/2020,0,0
 Africa,Liberia,LBR,10/02/2020,0,0
 Africa,Liberia,LBR,20/02/2020,0,0
@@ -6996,9 +6996,9 @@ Africa,Liberia,LBR,31/10/2021,5812,287
 Africa,Liberia,LBR,10/11/2021,5818,287
 Africa,Liberia,LBR,20/11/2021,5818,287
 Africa,Liberia,LBR,30/11/2021,5824,287
-Africa,Liberia,LBR,10/12/2021,0,0
-Africa,Liberia,LBR,20/12/2021,0,0
-Africa,Liberia,LBR,31/12/2021,0,0
+Africa,Liberia,LBR,10/12/2021,5835,287
+Africa,Liberia,LBR,20/12/2021,5916,287
+Africa,Liberia,LBR,31/12/2021,6278,287
 Africa,Libya,LBY,31/01/2020,0,0
 Africa,Libya,LBY,10/02/2020,0,0
 Africa,Libya,LBY,20/02/2020,0,0
@@ -7066,9 +7066,9 @@ Africa,Libya,LBY,31/10/2021,357338,5099
 Africa,Libya,LBY,10/11/2021,362915,5241
 Africa,Libya,LBY,20/11/2021,367218,5365
 Africa,Libya,LBY,30/11/2021,372636,5456
-Africa,Libya,LBY,10/12/2021,0,0
-Africa,Libya,LBY,20/12/2021,0,0
-Africa,Libya,LBY,31/12/2021,0,0
+Africa,Libya,LBY,10/12/2021,377450,5540
+Africa,Libya,LBY,20/12/2021,382341,5607
+Africa,Libya,LBY,31/12/2021,388734,5710
 Europe,Liechtenstein,LIE,31/01/2020,0,0
 Europe,Liechtenstein,LIE,10/02/2020,0,0
 Europe,Liechtenstein,LIE,20/02/2020,0,0
@@ -7136,9 +7136,9 @@ Europe,Liechtenstein,LIE,31/10/2021,3662,61
 Europe,Liechtenstein,LIE,10/11/2021,3814,61
 Europe,Liechtenstein,LIE,20/11/2021,4131,61
 Europe,Liechtenstein,LIE,30/11/2021,4678,61
-Europe,Liechtenstein,LIE,10/12/2021,0,0
-Europe,Liechtenstein,LIE,20/12/2021,0,0
-Europe,Liechtenstein,LIE,31/12/2021,0,0
+Europe,Liechtenstein,LIE,10/12/2021,5297,67
+Europe,Liechtenstein,LIE,20/12/2021,5703,68
+Europe,Liechtenstein,LIE,31/12/2021,6131,69
 Europe,Lithuania,LTU,31/01/2020,0,0
 Europe,Lithuania,LTU,10/02/2020,0,0
 Europe,Lithuania,LTU,20/02/2020,0,0
@@ -7206,9 +7206,9 @@ Europe,Lithuania,LTU,31/10/2021,408715,5873
 Europe,Lithuania,LTU,10/11/2021,434033,6214
 Europe,Lithuania,LTU,20/11/2021,454199,6494
 Europe,Lithuania,LTU,30/11/2021,470298,6737
-Europe,Lithuania,LTU,10/12/2021,0,0
-Europe,Lithuania,LTU,20/12/2021,0,0
-Europe,Lithuania,LTU,31/12/2021,0,0
+Europe,Lithuania,LTU,10/12/2021,487953,6933
+Europe,Lithuania,LTU,20/12/2021,502969,7143
+Europe,Lithuania,LTU,31/12/2021,519597,7387
 Europe,Luxembourg,LUX,31/01/2020,0,0
 Europe,Luxembourg,LUX,10/02/2020,0,0
 Europe,Luxembourg,LUX,20/02/2020,0,0
@@ -7276,9 +7276,9 @@ Europe,Luxembourg,LUX,31/10/2021,81683,843
 Europe,Luxembourg,LUX,10/11/2021,83826,852
 Europe,Luxembourg,LUX,20/11/2021,85960,862
 Europe,Luxembourg,LUX,30/11/2021,89181,875
-Europe,Luxembourg,LUX,10/12/2021,0,0
-Europe,Luxembourg,LUX,20/12/2021,0,0
-Europe,Luxembourg,LUX,31/12/2021,0,0
+Europe,Luxembourg,LUX,10/12/2021,93429,890
+Europe,Luxembourg,LUX,20/12/2021,97029,903
+Europe,Luxembourg,LUX,31/12/2021,103766,915
 ,Macao,MAC,31/01/2020,0,0
 ,Macao,MAC,10/02/2020,0,0
 ,Macao,MAC,20/02/2020,0,0
@@ -7416,9 +7416,9 @@ Africa,Madagascar,MDG,31/10/2021,43626,963
 Africa,Madagascar,MDG,10/11/2021,43672,964
 Africa,Madagascar,MDG,20/11/2021,43672,964
 Africa,Madagascar,MDG,30/11/2021,44330,967
-Africa,Madagascar,MDG,10/12/2021,0,0
-Africa,Madagascar,MDG,20/12/2021,0,0
-Africa,Madagascar,MDG,31/12/2021,0,0
+Africa,Madagascar,MDG,10/12/2021,44800,972
+Africa,Madagascar,MDG,20/12/2021,47295,996
+Africa,Madagascar,MDG,31/12/2021,50279,1027
 ,Malawi,MWI,31/01/2020,0,0
 ,Malawi,MWI,10/02/2020,0,0
 ,Malawi,MWI,20/02/2020,0,0
@@ -7486,9 +7486,9 @@ Africa,Madagascar,MDG,31/12/2021,0,0
 ,Malawi,MWI,10/11/2021,61832,2302
 ,Malawi,MWI,20/11/2021,61863,2304
 ,Malawi,MWI,30/11/2021,61916,2306
-,Malawi,MWI,10/12/2021,0,0
-,Malawi,MWI,20/12/2021,0,0
-,Malawi,MWI,31/12/2021,0,0
+,Malawi,MWI,10/12/2021,62147,2307
+,Malawi,MWI,20/12/2021,65223,2313
+,Malawi,MWI,31/12/2021,75075,2364
 ,Malaysia,MYS,31/01/2020,8,0
 ,Malaysia,MYS,10/02/2020,18,0
 ,Malaysia,MYS,20/02/2020,22,0
@@ -7556,9 +7556,9 @@ Africa,Madagascar,MDG,31/12/2021,0,0
 ,Malaysia,MYS,10/11/2021,2522498,29486
 ,Malaysia,MYS,20/11/2021,2581747,29978
 ,Malaysia,MYS,30/11/2021,2632782,30425
-,Malaysia,MYS,10/12/2021,0,0
-,Malaysia,MYS,20/12/2021,0,0
-,Malaysia,MYS,31/12/2021,0,0
+,Malaysia,MYS,10/12/2021,2683523,30831
+,Malaysia,MYS,20/12/2021,2721544,31135
+,Malaysia,MYS,31/12/2021,2758086,31487
 ,Maldives,MDV,31/01/2020,0,0
 ,Maldives,MDV,10/02/2020,0,0
 ,Maldives,MDV,20/02/2020,0,0
@@ -7626,9 +7626,9 @@ Africa,Madagascar,MDG,31/12/2021,0,0
 ,Maldives,MDV,10/11/2021,89255,246
 ,Maldives,MDV,20/11/2021,90601,248
 ,Maldives,MDV,30/11/2021,91650,250
-,Maldives,MDV,10/12/2021,0,0
-,Maldives,MDV,20/12/2021,0,0
-,Maldives,MDV,31/12/2021,0,0
+,Maldives,MDV,10/12/2021,92846,256
+,Maldives,MDV,20/12/2021,94057,260
+,Maldives,MDV,31/12/2021,95700,262
 ,Mali,MLI,31/01/2020,0,0
 ,Mali,MLI,10/02/2020,0,0
 ,Mali,MLI,20/02/2020,0,0
@@ -7696,9 +7696,9 @@ Africa,Madagascar,MDG,31/12/2021,0,0
 ,Mali,MLI,10/11/2021,16526,581
 ,Mali,MLI,20/11/2021,16919,591
 ,Mali,MLI,30/11/2021,17434,606
-,Mali,MLI,10/12/2021,0,0
-,Mali,MLI,20/12/2021,0,0
-,Mali,MLI,31/12/2021,0,0
+,Mali,MLI,10/12/2021,18404,623
+,Mali,MLI,20/12/2021,19365,646
+,Mali,MLI,31/12/2021,21008,660
 Europe,Malta,MLT,31/01/2020,0,0
 Europe,Malta,MLT,10/02/2020,0,0
 Europe,Malta,MLT,20/02/2020,0,0
@@ -7766,9 +7766,9 @@ Europe,Malta,MLT,31/10/2021,37653,461
 Europe,Malta,MLT,10/11/2021,38004,462
 Europe,Malta,MLT,20/11/2021,38587,463
 Europe,Malta,MLT,30/11/2021,39435,468
-Europe,Malta,MLT,10/12/2021,0,0
-Europe,Malta,MLT,20/12/2021,0,0
-Europe,Malta,MLT,31/12/2021,0,0
+Europe,Malta,MLT,10/12/2021,40357,470
+Europe,Malta,MLT,20/12/2021,42105,471
+Europe,Malta,MLT,31/12/2021,52473,476
 ,Marshall Islands,MHL,31/01/2020,0,0
 ,Marshall Islands,MHL,10/02/2020,0,0
 ,Marshall Islands,MHL,20/02/2020,0,0
@@ -7836,9 +7836,9 @@ Europe,Malta,MLT,31/12/2021,0,0
 ,Marshall Islands,MHL,10/11/2021,4,0
 ,Marshall Islands,MHL,20/11/2021,4,0
 ,Marshall Islands,MHL,30/11/2021,4,0
-,Marshall Islands,MHL,10/12/2021,0,0
-,Marshall Islands,MHL,20/12/2021,0,0
-,Marshall Islands,MHL,31/12/2021,0,0
+,Marshall Islands,MHL,10/12/2021,4,0
+,Marshall Islands,MHL,20/12/2021,4,0
+,Marshall Islands,MHL,31/12/2021,4,0
 ,Mauritania,MRT,31/01/2020,0,0
 ,Mauritania,MRT,10/02/2020,0,0
 ,Mauritania,MRT,20/02/2020,0,0
@@ -7906,9 +7906,9 @@ Europe,Malta,MLT,31/12/2021,0,0
 ,Mauritania,MRT,10/11/2021,37884,805
 ,Mauritania,MRT,20/11/2021,38583,816
 ,Mauritania,MRT,30/11/2021,39266,832
-,Mauritania,MRT,10/12/2021,0,0
-,Mauritania,MRT,20/12/2021,0,0
-,Mauritania,MRT,31/12/2021,0,0
+,Mauritania,MRT,10/12/2021,39742,848
+,Mauritania,MRT,20/12/2021,40126,855
+,Mauritania,MRT,31/12/2021,41473,866
 ,Mauritius,MUS,31/01/2020,0,0
 ,Mauritius,MUS,10/02/2020,0,0
 ,Mauritius,MUS,20/02/2020,0,0
@@ -7974,11 +7974,11 @@ Europe,Malta,MLT,31/12/2021,0,0
 ,Mauritius,MUS,20/10/2021,16805,141
 ,Mauritius,MUS,31/10/2021,17698,166
 ,Mauritius,MUS,10/11/2021,18979,240
-,Mauritius,MUS,20/11/2021,18979,240
-,Mauritius,MUS,30/11/2021,21040,240
-,Mauritius,MUS,10/12/2021,0,0
-,Mauritius,MUS,20/12/2021,0,0
-,Mauritius,MUS,31/12/2021,0,0
+,Mauritius,MUS,20/11/2021,20177,240
+,Mauritius,MUS,30/11/2021,21543,240
+,Mauritius,MUS,10/12/2021,22461,240
+,Mauritius,MUS,20/12/2021,22979,240
+,Mauritius,MUS,31/12/2021,23493,240
 North America,Mexico,MEX,31/01/2020,0,0
 North America,Mexico,MEX,10/02/2020,0,0
 North America,Mexico,MEX,20/02/2020,0,0
@@ -8046,9 +8046,9 @@ North America,Mexico,MEX,31/10/2021,3807211,288365
 North America,Mexico,MEX,10/11/2021,3831259,290110
 North America,Mexico,MEX,20/11/2021,3858831,292145
 North America,Mexico,MEX,30/11/2021,3884566,293950
-North America,Mexico,MEX,10/12/2021,0,0
-North America,Mexico,MEX,20/12/2021,0,0
-North America,Mexico,MEX,31/12/2021,0,0
+North America,Mexico,MEX,10/12/2021,3911714,296188
+North America,Mexico,MEX,20/12/2021,3934102,297916
+North America,Mexico,MEX,31/12/2021,3979723,299428
 Oceania,Micronesia,FSM,31/01/2020,0,0
 Oceania,Micronesia,FSM,10/02/2020,0,0
 Oceania,Micronesia,FSM,20/02/2020,0,0
@@ -8116,9 +8116,9 @@ Oceania,Micronesia,FSM,31/10/2021,1,0
 Oceania,Micronesia,FSM,10/11/2021,1,0
 Oceania,Micronesia,FSM,20/11/2021,1,0
 Oceania,Micronesia,FSM,30/11/2021,1,0
-Oceania,Micronesia,FSM,10/12/2021,0,0
-Oceania,Micronesia,FSM,20/12/2021,0,0
-Oceania,Micronesia,FSM,31/12/2021,0,0
+Oceania,Micronesia,FSM,10/12/2021,1,0
+Oceania,Micronesia,FSM,20/12/2021,1,0
+Oceania,Micronesia,FSM,31/12/2021,1,0
 Europe,Moldova,MDA,31/01/2020,0,0
 Europe,Moldova,MDA,10/02/2020,0,0
 Europe,Moldova,MDA,20/02/2020,0,0
@@ -8186,9 +8186,9 @@ Europe,Moldova,MDA,31/10/2021,337768,7790
 Europe,Moldova,MDA,10/11/2021,349568,8253
 Europe,Moldova,MDA,20/11/2021,357831,8799
 Europe,Moldova,MDA,30/11/2021,363774,9119
-Europe,Moldova,MDA,10/12/2021,0,0
-Europe,Moldova,MDA,20/12/2021,0,0
-Europe,Moldova,MDA,31/12/2021,0,0
+Europe,Moldova,MDA,10/12/2021,369013,9333
+Europe,Moldova,MDA,20/12/2021,372429,9521
+Europe,Moldova,MDA,31/12/2021,376155,10275
 Europe,Monaco,MCO,31/01/2020,0,0
 Europe,Monaco,MCO,10/02/2020,0,0
 Europe,Monaco,MCO,20/02/2020,0,0
@@ -8256,9 +8256,9 @@ Europe,Monaco,MCO,31/10/2021,3414,36
 Europe,Monaco,MCO,10/11/2021,3451,36
 Europe,Monaco,MCO,20/11/2021,3552,36
 Europe,Monaco,MCO,30/11/2021,3738,36
-Europe,Monaco,MCO,10/12/2021,0,0
-Europe,Monaco,MCO,20/12/2021,0,0
-Europe,Monaco,MCO,31/12/2021,0,0
+Europe,Monaco,MCO,10/12/2021,4054,36
+Europe,Monaco,MCO,20/12/2021,4406,37
+Europe,Monaco,MCO,31/12/2021,4985,38
 Asia,Mongolia,MNG,31/01/2020,0,0
 Asia,Mongolia,MNG,10/02/2020,0,0
 Asia,Mongolia,MNG,20/02/2020,0,0
@@ -8326,9 +8326,9 @@ Asia,Mongolia,MNG,31/10/2021,360317,1745
 Asia,Mongolia,MNG,10/11/2021,369303,1840
 Asia,Mongolia,MNG,20/11/2021,377387,1940
 Asia,Mongolia,MNG,30/11/2021,382082,2005
-Asia,Mongolia,MNG,10/12/2021,0,0
-Asia,Mongolia,MNG,20/12/2021,0,0
-Asia,Mongolia,MNG,31/12/2021,0,0
+Asia,Mongolia,MNG,10/12/2021,384912,2028
+Asia,Mongolia,MNG,20/12/2021,387116,2045
+Asia,Mongolia,MNG,31/12/2021,389361,2059
 Europe,Montenegro,MNE,31/01/2020,0,0
 Europe,Montenegro,MNE,10/02/2020,0,0
 Europe,Montenegro,MNE,20/02/2020,0,0
@@ -8396,9 +8396,9 @@ Europe,Montenegro,MNE,31/10/2021,144314,2103
 Europe,Montenegro,MNE,10/11/2021,150313,2181
 Europe,Montenegro,MNE,20/11/2021,154464,2239
 Europe,Montenegro,MNE,30/11/2021,157376,2307
-Europe,Montenegro,MNE,10/12/2021,0,0
-Europe,Montenegro,MNE,20/12/2021,0,0
-Europe,Montenegro,MNE,31/12/2021,0,0
+Europe,Montenegro,MNE,10/12/2021,159433,2347
+Europe,Montenegro,MNE,20/12/2021,161127,2378
+Europe,Montenegro,MNE,31/12/2021,170034,2411
 Africa,Morocco,MAR,31/01/2020,0,0
 Africa,Morocco,MAR,10/02/2020,0,0
 Africa,Morocco,MAR,20/02/2020,0,0
@@ -8466,9 +8466,9 @@ Africa,Morocco,MAR,31/10/2021,946145,14668
 Africa,Morocco,MAR,10/11/2021,947761,14729
 Africa,Morocco,MAR,20/11/2021,948830,14761
 Africa,Morocco,MAR,30/11/2021,949917,14776
-Africa,Morocco,MAR,10/12/2021,0,0
-Africa,Morocco,MAR,20/12/2021,0,0
-Africa,Morocco,MAR,31/12/2021,0,0
+Africa,Morocco,MAR,10/12/2021,951267,14795
+Africa,Morocco,MAR,20/12/2021,952916,14810
+Africa,Morocco,MAR,31/12/2021,963092,14849
 ,Mozambique,MOZ,31/01/2020,0,0
 ,Mozambique,MOZ,10/02/2020,0,0
 ,Mozambique,MOZ,20/02/2020,0,0
@@ -8536,9 +8536,9 @@ Africa,Morocco,MAR,31/12/2021,0,0
 ,Mozambique,MOZ,10/11/2021,151390,1934
 ,Mozambique,MOZ,20/11/2021,151488,1936
 ,Mozambique,MOZ,30/11/2021,151548,1941
-,Mozambique,MOZ,10/12/2021,0,0
-,Mozambique,MOZ,20/12/2021,0,0
-,Mozambique,MOZ,31/12/2021,0,0
+,Mozambique,MOZ,10/12/2021,152965,1942
+,Mozambique,MOZ,20/12/2021,160457,1952
+,Mozambique,MOZ,31/12/2021,189080,2006
 Africa,Namibia,NAM,31/01/2020,0,0
 Africa,Namibia,NAM,10/02/2020,0,0
 Africa,Namibia,NAM,20/02/2020,0,0
@@ -8606,9 +8606,9 @@ Africa,Namibia,NAM,31/10/2021,128927,3554
 Africa,Namibia,NAM,10/11/2021,129027,3565
 Africa,Namibia,NAM,20/11/2021,129076,3567
 Africa,Namibia,NAM,30/11/2021,129187,3573
-Africa,Namibia,NAM,10/12/2021,0,0
-Africa,Namibia,NAM,20/12/2021,0,0
-Africa,Namibia,NAM,31/12/2021,0,0
+Africa,Namibia,NAM,10/12/2021,131230,3575
+Africa,Namibia,NAM,20/12/2021,139518,3583
+Africa,Namibia,NAM,31/12/2021,147974,3633
 ,Nauru,NRU,31/01/2020,0,0
 ,Nauru,NRU,10/02/2020,0,0
 ,Nauru,NRU,20/02/2020,0,0
@@ -8746,9 +8746,9 @@ Asia,Nepal,NPL,31/10/2021,812570,11407
 Asia,Nepal,NPL,10/11/2021,815759,11460
 Asia,Nepal,NPL,20/11/2021,818787,11495
 Asia,Nepal,NPL,30/11/2021,821366,11526
-Asia,Nepal,NPL,10/12/2021,0,0
-Asia,Nepal,NPL,20/12/2021,0,0
-Asia,Nepal,NPL,31/12/2021,0,0
+Asia,Nepal,NPL,10/12/2021,823786,11552
+Asia,Nepal,NPL,20/12/2021,825954,11574
+Asia,Nepal,NPL,31/12/2021,828431,11594
 Europe,Netherlands,NLD,31/01/2020,0,0
 Europe,Netherlands,NLD,10/02/2020,0,0
 Europe,Netherlands,NLD,20/02/2020,0,0
@@ -8816,9 +8816,9 @@ Europe,Netherlands,NLD,31/10/2021,2171990,18850
 Europe,Netherlands,NLD,10/11/2021,2277031,19079
 Europe,Netherlands,NLD,20/11/2021,2462399,19400
 Europe,Netherlands,NLD,30/11/2021,2684457,19863
-Europe,Netherlands,NLD,10/12/2021,0,0
-Europe,Netherlands,NLD,20/12/2021,0,0
-Europe,Netherlands,NLD,31/12/2021,0,0
+Europe,Netherlands,NLD,10/12/2021,2887982,20460
+Europe,Netherlands,NLD,20/12/2021,3034721,20965
+Europe,Netherlands,NLD,31/12/2021,3183134,21392
 Oceania,New Zealand,NZL,31/01/2020,0,0
 Oceania,New Zealand,NZL,10/02/2020,0,0
 Oceania,New Zealand,NZL,20/02/2020,0,0
@@ -8886,9 +8886,9 @@ Oceania,New Zealand,NZL,31/10/2021,6595,28
 Oceania,New Zealand,NZL,10/11/2021,8108,33
 Oceania,New Zealand,NZL,20/11/2021,9973,39
 Oceania,New Zealand,NZL,30/11/2021,11724,44
-Oceania,New Zealand,NZL,10/12/2021,0,0
-Oceania,New Zealand,NZL,20/12/2021,0,0
-Oceania,New Zealand,NZL,31/12/2021,0,0
+Oceania,New Zealand,NZL,10/12/2021,12783,46
+Oceania,New Zealand,NZL,20/12/2021,13533,49
+Oceania,New Zealand,NZL,31/12/2021,14120,51
 North America,Nicaragua,NIC,31/01/2020,0,0
 North America,Nicaragua,NIC,10/02/2020,0,0
 North America,Nicaragua,NIC,20/02/2020,0,0
@@ -8956,9 +8956,9 @@ North America,Nicaragua,NIC,31/10/2021,16422,208
 North America,Nicaragua,NIC,10/11/2021,16877,210
 North America,Nicaragua,NIC,20/11/2021,17023,211
 North America,Nicaragua,NIC,30/11/2021,17254,212
-North America,Nicaragua,NIC,10/12/2021,0,0
-North America,Nicaragua,NIC,20/12/2021,0,0
-North America,Nicaragua,NIC,31/12/2021,0,0
+North America,Nicaragua,NIC,10/12/2021,17328,214
+North America,Nicaragua,NIC,20/12/2021,17391,215
+North America,Nicaragua,NIC,31/12/2021,17487,217
 ,Niger,NER,31/01/2020,0,0
 ,Niger,NER,10/02/2020,0,0
 ,Niger,NER,20/02/2020,0,0
@@ -9026,9 +9026,9 @@ North America,Nicaragua,NIC,31/12/2021,0,0
 ,Niger,NER,10/11/2021,6589,227
 ,Niger,NER,20/11/2021,6793,238
 ,Niger,NER,30/11/2021,7007,259
-,Niger,NER,10/12/2021,0,0
-,Niger,NER,20/12/2021,0,0
-,Niger,NER,31/12/2021,0,0
+,Niger,NER,10/12/2021,7149,267
+,Niger,NER,20/12/2021,7214,272
+,Niger,NER,31/12/2021,7405,275
 Africa,Nigeria,NGA,31/01/2020,0,0
 Africa,Nigeria,NGA,10/02/2020,0,0
 Africa,Nigeria,NGA,20/02/2020,0,0
@@ -9096,9 +9096,9 @@ Africa,Nigeria,NGA,31/10/2021,211961,2896
 Africa,Nigeria,NGA,10/11/2021,212894,2922
 Africa,Nigeria,NGA,20/11/2021,213532,2973
 Africa,Nigeria,NGA,30/11/2021,214218,2977
-Africa,Nigeria,NGA,10/12/2021,0,0
-Africa,Nigeria,NGA,20/12/2021,0,0
-Africa,Nigeria,NGA,31/12/2021,0,0
+Africa,Nigeria,NGA,10/12/2021,216451,2981
+Africa,Nigeria,NGA,20/12/2021,225255,2985
+Africa,Nigeria,NGA,31/12/2021,241513,3030
 ,Niue,NIU,31/01/2020,0,0
 ,Niue,NIU,10/02/2020,0,0
 ,Niue,NIU,20/02/2020,0,0
@@ -9306,9 +9306,9 @@ Europe,North Macedonia,MKD,31/10/2021,202552,7132
 Europe,North Macedonia,MKD,10/11/2021,207566,7276
 Europe,North Macedonia,MKD,20/11/2021,211831,7418
 Europe,North Macedonia,MKD,30/11/2021,215585,7581
-Europe,North Macedonia,MKD,10/12/2021,0,0
-Europe,North Macedonia,MKD,20/12/2021,0,0
-Europe,North Macedonia,MKD,31/12/2021,0,0
+Europe,North Macedonia,MKD,10/12/2021,218723,7710
+Europe,North Macedonia,MKD,20/12/2021,221411,7825
+Europe,North Macedonia,MKD,31/12/2021,225049,7960
 ,Northern Mariana Islands,MNP,31/01/2020,0,0
 ,Northern Mariana Islands,MNP,10/02/2020,0,0
 ,Northern Mariana Islands,MNP,20/02/2020,0,0
@@ -9446,9 +9446,9 @@ Europe,Norway,NOR,31/10/2021,207280,900
 Europe,Norway,NOR,10/11/2021,222296,947
 Europe,Norway,NOR,20/11/2021,241441,999
 Europe,Norway,NOR,30/11/2021,267843,1054
-Europe,Norway,NOR,10/12/2021,0,0
-Europe,Norway,NOR,20/12/2021,0,0
-Europe,Norway,NOR,31/12/2021,0,0
+Europe,Norway,NOR,10/12/2021,310781,1136
+Europe,Norway,NOR,20/12/2021,354465,1207
+Europe,Norway,NOR,31/12/2021,394259,1305
 Asia,Oman,OMN,31/01/2020,0,0
 Asia,Oman,OMN,10/02/2020,0,0
 Asia,Oman,OMN,20/02/2020,0,0
@@ -9516,9 +9516,9 @@ Asia,Oman,OMN,31/10/2021,304291,4111
 Asia,Oman,OMN,10/11/2021,304403,4113
 Asia,Oman,OMN,20/11/2021,304466,4113
 Asia,Oman,OMN,30/11/2021,304554,4113
-Asia,Oman,OMN,10/12/2021,0,0
-Asia,Oman,OMN,20/12/2021,0,0
-Asia,Oman,OMN,31/12/2021,0,0
+Asia,Oman,OMN,10/12/2021,304679,4113
+Asia,Oman,OMN,20/12/2021,304874,4113
+Asia,Oman,OMN,31/12/2021,305489,4116
 Asia,Pakistan,PAK,31/01/2020,0,0
 Asia,Pakistan,PAK,10/02/2020,0,0
 Asia,Pakistan,PAK,20/02/2020,0,0
@@ -9586,9 +9586,9 @@ Asia,Pakistan,PAK,31/10/2021,1273560,28456
 Asia,Pakistan,PAK,10/11/2021,1278751,28575
 Asia,Pakistan,PAK,20/11/2021,1281872,28659
 Asia,Pakistan,PAK,30/11/2021,1285254,28737
-Asia,Pakistan,PAK,10/12/2021,0,0
-Asia,Pakistan,PAK,20/12/2021,0,0
-Asia,Pakistan,PAK,31/12/2021,0,0
+Asia,Pakistan,PAK,10/12/2021,1288761,28823
+Asia,Pakistan,PAK,20/12/2021,1291737,28882
+Asia,Pakistan,PAK,31/12/2021,1295933,28933
 ,Palau,PLW,31/01/2020,0,0
 ,Palau,PLW,10/02/2020,0,0
 ,Palau,PLW,20/02/2020,0,0
@@ -9656,9 +9656,9 @@ Asia,Pakistan,PAK,31/12/2021,0,0
 ,Palau,PLW,10/11/2021,8,0
 ,Palau,PLW,20/11/2021,8,0
 ,Palau,PLW,30/11/2021,8,0
-,Palau,PLW,10/12/2021,0,0
-,Palau,PLW,20/12/2021,0,0
-,Palau,PLW,31/12/2021,0,0
+,Palau,PLW,10/12/2021,8,0
+,Palau,PLW,20/12/2021,8,0
+,Palau,PLW,31/12/2021,8,0
 Asia,Palestine,PSE,31/01/2020,0,0
 Asia,Palestine,PSE,10/02/2020,0,0
 Asia,Palestine,PSE,20/02/2020,0,0
@@ -9726,9 +9726,9 @@ Asia,Palestine,PSE,31/10/2021,452997,4663
 Asia,Palestine,PSE,10/11/2021,456186,4733
 Asia,Palestine,PSE,20/11/2021,457950,4770
 Asia,Palestine,PSE,30/11/2021,460053,4796
-Asia,Palestine,PSE,10/12/2021,0,0
-Asia,Palestine,PSE,20/12/2021,0,0
-Asia,Palestine,PSE,31/12/2021,0,0
+Asia,Palestine,PSE,10/12/2021,463573,4830
+Asia,Palestine,PSE,20/12/2021,466669,4870
+Asia,Palestine,PSE,31/12/2021,469748,4919
 North America,Panama,PAN,31/01/2020,0,0
 North America,Panama,PAN,10/02/2020,0,0
 North America,Panama,PAN,20/02/2020,0,0
@@ -9796,9 +9796,9 @@ North America,Panama,PAN,31/10/2021,472664,7315
 North America,Panama,PAN,10/11/2021,473903,7338
 North America,Panama,PAN,20/11/2021,475835,7352
 North America,Panama,PAN,30/11/2021,477742,7365
-North America,Panama,PAN,10/12/2021,0,0
-North America,Panama,PAN,20/12/2021,0,0
-North America,Panama,PAN,31/12/2021,0,0
+North America,Panama,PAN,10/12/2021,480217,7385
+North America,Panama,PAN,20/12/2021,483386,7398
+North America,Panama,PAN,31/12/2021,495920,7428
 ,Papua New Guinea,PNG,31/01/2020,0,0
 ,Papua New Guinea,PNG,10/02/2020,0,0
 ,Papua New Guinea,PNG,20/02/2020,0,0
@@ -9866,9 +9866,9 @@ North America,Panama,PAN,31/12/2021,0,0
 ,Papua New Guinea,PNG,10/11/2021,32279,415
 ,Papua New Guinea,PNG,20/11/2021,34022,484
 ,Papua New Guinea,PNG,30/11/2021,35179,546
-,Papua New Guinea,PNG,10/12/2021,0,0
-,Papua New Guinea,PNG,20/12/2021,0,0
-,Papua New Guinea,PNG,31/12/2021,0,0
+,Papua New Guinea,PNG,10/12/2021,35835,573
+,Papua New Guinea,PNG,20/12/2021,36004,589
+,Papua New Guinea,PNG,31/12/2021,36158,590
 South America,Paraguay,PRY,31/01/2020,0,0
 South America,Paraguay,PRY,10/02/2020,0,0
 South America,Paraguay,PRY,20/02/2020,0,0
@@ -9936,9 +9936,9 @@ South America,Paraguay,PRY,31/10/2021,461006,16246
 South America,Paraguay,PRY,10/11/2021,461466,16272
 South America,Paraguay,PRY,20/11/2021,462198,16354
 South America,Paraguay,PRY,30/11/2021,463058,16472
-South America,Paraguay,PRY,10/12/2021,0,0
-South America,Paraguay,PRY,20/12/2021,0,0
-South America,Paraguay,PRY,31/12/2021,0,0
+South America,Paraguay,PRY,10/12/2021,463650,16500
+South America,Paraguay,PRY,20/12/2021,464703,16583
+South America,Paraguay,PRY,31/12/2021,466101,16624
 South America,Peru,PER,31/01/2020,0,0
 South America,Peru,PER,10/02/2020,0,0
 South America,Peru,PER,20/02/2020,0,0
@@ -10006,9 +10006,9 @@ South America,Peru,PER,31/10/2021,2201796,200246
 South America,Peru,PER,10/11/2021,2210129,200532
 South America,Peru,PER,20/11/2021,2222879,200833
 South America,Peru,PER,30/11/2021,2236351,201176
-South America,Peru,PER,10/12/2021,0,0
-South America,Peru,PER,20/12/2021,0,0
-South America,Peru,PER,31/12/2021,0,0
+South America,Peru,PER,10/12/2021,2251027,201650
+South America,Peru,PER,20/12/2021,2265320,202225
+South America,Peru,PER,31/12/2021,2292254,202653
 Asia,Philippines,PHL,31/01/2020,1,0
 Asia,Philippines,PHL,10/02/2020,3,1
 Asia,Philippines,PHL,20/02/2020,3,1
@@ -10076,9 +10076,9 @@ Asia,Philippines,PHL,31/10/2021,2787276,43172
 Asia,Philippines,PHL,10/11/2021,2806694,44567
 Asia,Philippines,PHL,20/11/2021,2824499,46903
 Asia,Philippines,PHL,30/11/2021,2832734,48545
-Asia,Philippines,PHL,10/12/2021,0,0
-Asia,Philippines,PHL,20/12/2021,0,0
-Asia,Philippines,PHL,31/12/2021,0,0
+Asia,Philippines,PHL,10/12/2021,2836200,49961
+Asia,Philippines,PHL,20/12/2021,2837730,50784
+Asia,Philippines,PHL,31/12/2021,2843979,51504
 Europe,Poland,POL,31/01/2020,0,0
 Europe,Poland,POL,10/02/2020,0,0
 Europe,Poland,POL,20/02/2020,0,0
@@ -10146,9 +10146,9 @@ Europe,Poland,POL,31/10/2021,3025247,76999
 Europe,Poland,POL,10/11/2021,3143725,78250
 Europe,Poland,POL,20/11/2021,3326464,80781
 Europe,Poland,POL,30/11/2021,3540061,83583
-Europe,Poland,POL,10/12/2021,0,0
-Europe,Poland,POL,20/12/2021,0,0
-Europe,Poland,POL,31/12/2021,0,0
+Europe,Poland,POL,10/12/2021,3785036,87928
+Europe,Poland,POL,20/12/2021,3968450,91514
+Europe,Poland,POL,31/12/2021,4108215,97054
 Europe,Portugal,PRT,31/01/2020,0,0
 Europe,Portugal,PRT,10/02/2020,0,0
 Europe,Portugal,PRT,20/02/2020,0,0
@@ -10216,9 +10216,9 @@ Europe,Portugal,PRT,31/10/2021,1090651,18157
 Europe,Portugal,PRT,10/11/2021,1100961,18222
 Europe,Portugal,PRT,20/11/2021,1119784,18310
 Europe,Portugal,PRT,30/11/2021,1147249,18441
-Europe,Portugal,PRT,10/12/2021,0,0
-Europe,Portugal,PRT,20/12/2021,0,0
-Europe,Portugal,PRT,31/12/2021,0,0
+Europe,Portugal,PRT,10/12/2021,1185036,18626
+Europe,Portugal,PRT,20/12/2021,1227854,18796
+Europe,Portugal,PRT,31/12/2021,1389646,18955
 North America,Puerto Rico,PRI,31/01/2020,0,0
 North America,Puerto Rico,PRI,10/02/2020,0,0
 North America,Puerto Rico,PRI,20/02/2020,0,0
@@ -10356,9 +10356,9 @@ Asia,Qatar,QAT,31/10/2021,239247,610
 Asia,Qatar,QAT,10/11/2021,240557,611
 Asia,Qatar,QAT,20/11/2021,241969,611
 Asia,Qatar,QAT,30/11/2021,243447,611
-Asia,Qatar,QAT,10/12/2021,0,0
-Asia,Qatar,QAT,20/12/2021,0,0
-Asia,Qatar,QAT,31/12/2021,0,0
+Asia,Qatar,QAT,10/12/2021,245030,612
+Asia,Qatar,QAT,20/12/2021,246714,614
+Asia,Qatar,QAT,31/12/2021,250528,618
 Europe,Romania,ROU,31/01/2020,0,0
 Europe,Romania,ROU,10/02/2020,0,0
 Europe,Romania,ROU,20/02/2020,0,0
@@ -10426,9 +10426,9 @@ Europe,Romania,ROU,31/10/2021,1648031,47751
 Europe,Romania,ROU,10/11/2021,1725017,51888
 Europe,Romania,ROU,20/11/2021,1760765,54838
 Europe,Romania,ROU,30/11/2021,1779667,56529
-Europe,Romania,ROU,10/12/2021,0,0
-Europe,Romania,ROU,20/12/2021,0,0
-Europe,Romania,ROU,31/12/2021,0,0
+Europe,Romania,ROU,10/12/2021,1791502,57531
+Europe,Romania,ROU,20/12/2021,1798629,58232
+Europe,Romania,ROU,31/12/2021,1808891,58752
 Europe,Russia,RUS,31/01/2020,2,0
 Europe,Russia,RUS,10/02/2020,2,0
 Europe,Russia,RUS,20/02/2020,2,0
@@ -10496,9 +10496,9 @@ Europe,Russia,RUS,31/10/2021,8377984,234194
 Europe,Russia,RUS,10/11/2021,8764713,245794
 Europe,Russia,RUS,20/11/2021,9135149,257891
 Europe,Russia,RUS,30/11/2021,9468640,269900
-Europe,Russia,RUS,10/12/2021,0,0
-Europe,Russia,RUS,20/12/2021,0,0
-Europe,Russia,RUS,31/12/2021,0,0
+Europe,Russia,RUS,10/12/2021,9782723,281571
+Europe,Russia,RUS,20/12/2021,10064290,292331
+Europe,Russia,RUS,31/12/2021,10320405,302671
 Africa,Rwanda,RWA,31/01/2020,0,0
 Africa,Rwanda,RWA,10/02/2020,0,0
 Africa,Rwanda,RWA,20/02/2020,0,0
@@ -10566,9 +10566,9 @@ Africa,Rwanda,RWA,31/10/2021,99698,1331
 Africa,Rwanda,RWA,10/11/2021,100019,1335
 Africa,Rwanda,RWA,20/11/2021,100207,1340
 Africa,Rwanda,RWA,30/11/2021,100349,1342
-Africa,Rwanda,RWA,10/12/2021,0,0
-Africa,Rwanda,RWA,20/12/2021,0,0
-Africa,Rwanda,RWA,31/12/2021,0,0
+Africa,Rwanda,RWA,10/12/2021,100556,1344
+Africa,Rwanda,RWA,20/12/2021,101889,1345
+Africa,Rwanda,RWA,31/12/2021,111786,1350
 ,Saint Helena,SHN,31/01/2020,0,0
 ,Saint Helena,SHN,10/02/2020,0,0
 ,Saint Helena,SHN,20/02/2020,0,0
@@ -10706,9 +10706,9 @@ North America,Saint Kitts and Nevis,KNA,31/10/2021,2669,23
 North America,Saint Kitts and Nevis,KNA,10/11/2021,2730,27
 North America,Saint Kitts and Nevis,KNA,20/11/2021,2764,28
 North America,Saint Kitts and Nevis,KNA,30/11/2021,2786,28
-North America,Saint Kitts and Nevis,KNA,10/12/2021,0,0
-North America,Saint Kitts and Nevis,KNA,20/12/2021,0,0
-North America,Saint Kitts and Nevis,KNA,31/12/2021,0,0
+North America,Saint Kitts and Nevis,KNA,10/12/2021,2795,28
+North America,Saint Kitts and Nevis,KNA,20/12/2021,2808,28
+North America,Saint Kitts and Nevis,KNA,31/12/2021,2999,28
 North America,Saint Lucia,LCA,31/01/2020,0,0
 North America,Saint Lucia,LCA,10/02/2020,0,0
 North America,Saint Lucia,LCA,20/02/2020,0,0
@@ -10776,9 +10776,9 @@ North America,Saint Lucia,LCA,31/10/2021,12559,255
 North America,Saint Lucia,LCA,10/11/2021,12757,264
 North America,Saint Lucia,LCA,20/11/2021,12894,278
 North America,Saint Lucia,LCA,30/11/2021,13000,280
-North America,Saint Lucia,LCA,10/12/2021,0,0
-North America,Saint Lucia,LCA,20/12/2021,0,0
-North America,Saint Lucia,LCA,31/12/2021,0,0
+North America,Saint Lucia,LCA,10/12/2021,13086,283
+North America,Saint Lucia,LCA,20/12/2021,13166,293
+North America,Saint Lucia,LCA,31/12/2021,13570,295
 North America,Saint Vincent and the Grenadines,VCT,31/01/2020,0,0
 North America,Saint Vincent and the Grenadines,VCT,10/02/2020,0,0
 North America,Saint Vincent and the Grenadines,VCT,20/02/2020,0,0
@@ -10846,9 +10846,9 @@ North America,Saint Vincent and the Grenadines,VCT,31/10/2021,4995,68
 North America,Saint Vincent and the Grenadines,VCT,10/11/2021,5167,69
 North America,Saint Vincent and the Grenadines,VCT,20/11/2021,5391,73
 North America,Saint Vincent and the Grenadines,VCT,30/11/2021,5525,74
-North America,Saint Vincent and the Grenadines,VCT,10/12/2021,0,0
-North America,Saint Vincent and the Grenadines,VCT,20/12/2021,0,0
-North America,Saint Vincent and the Grenadines,VCT,31/12/2021,0,0
+North America,Saint Vincent and the Grenadines,VCT,10/12/2021,5692,77
+North America,Saint Vincent and the Grenadines,VCT,20/12/2021,5758,77
+North America,Saint Vincent and the Grenadines,VCT,31/12/2021,5850,81
 ,Samoa,WSM,31/01/2020,0,0
 ,Samoa,WSM,10/02/2020,0,0
 ,Samoa,WSM,20/02/2020,0,0
@@ -10916,9 +10916,9 @@ North America,Saint Vincent and the Grenadines,VCT,31/12/2021,0,0
 ,Samoa,WSM,10/11/2021,3,0
 ,Samoa,WSM,20/11/2021,3,0
 ,Samoa,WSM,30/11/2021,3,0
-,Samoa,WSM,10/12/2021,0,0
-,Samoa,WSM,20/12/2021,0,0
-,Samoa,WSM,31/12/2021,0,0
+,Samoa,WSM,10/12/2021,3,0
+,Samoa,WSM,20/12/2021,3,0
+,Samoa,WSM,31/12/2021,3,0
 Europe,San Marino,SMR,31/01/2020,0,0
 Europe,San Marino,SMR,10/02/2020,0,0
 Europe,San Marino,SMR,20/02/2020,0,0
@@ -10986,9 +10986,9 @@ Europe,San Marino,SMR,31/10/2021,5547,92
 Europe,San Marino,SMR,10/11/2021,5610,92
 Europe,San Marino,SMR,20/11/2021,5758,93
 Europe,San Marino,SMR,30/11/2021,6039,93
-Europe,San Marino,SMR,10/12/2021,0,0
-Europe,San Marino,SMR,20/12/2021,0,0
-Europe,San Marino,SMR,31/12/2021,0,0
+Europe,San Marino,SMR,10/12/2021,6464,94
+Europe,San Marino,SMR,20/12/2021,7160,96
+Europe,San Marino,SMR,31/12/2021,8202,100
 ,Sao Tome and Principe,STP,31/01/2020,0,0
 ,Sao Tome and Principe,STP,10/02/2020,0,0
 ,Sao Tome and Principe,STP,20/02/2020,0,0
@@ -11056,9 +11056,9 @@ Europe,San Marino,SMR,31/12/2021,0,0
 ,Sao Tome and Principe,STP,10/11/2021,3730,56
 ,Sao Tome and Principe,STP,20/11/2021,3731,56
 ,Sao Tome and Principe,STP,30/11/2021,3731,56
-,Sao Tome and Principe,STP,10/12/2021,0,0
-,Sao Tome and Principe,STP,20/12/2021,0,0
-,Sao Tome and Principe,STP,31/12/2021,0,0
+,Sao Tome and Principe,STP,10/12/2021,3733,57
+,Sao Tome and Principe,STP,20/12/2021,3735,57
+,Sao Tome and Principe,STP,31/12/2021,3897,57
 Asia,Saudi Arabia,SAU,31/01/2020,0,0
 Asia,Saudi Arabia,SAU,10/02/2020,0,0
 Asia,Saudi Arabia,SAU,20/02/2020,0,0
@@ -11126,9 +11126,9 @@ Asia,Saudi Arabia,SAU,31/10/2021,548617,8794
 Asia,Saudi Arabia,SAU,10/11/2021,549060,8807
 Asia,Saudi Arabia,SAU,20/11/2021,549443,8823
 Asia,Saudi Arabia,SAU,30/11/2021,549752,8836
-Asia,Saudi Arabia,SAU,10/12/2021,0,0
-Asia,Saudi Arabia,SAU,20/12/2021,0,0
-Asia,Saudi Arabia,SAU,31/12/2021,0,0
+Asia,Saudi Arabia,SAU,10/12/2021,550136,8851
+Asia,Saudi Arabia,SAU,20/12/2021,550988,8864
+Asia,Saudi Arabia,SAU,31/12/2021,556236,8877
 Africa,Senegal,SEN,31/01/2020,0,0
 Africa,Senegal,SEN,10/02/2020,0,0
 Africa,Senegal,SEN,20/02/2020,0,0
@@ -11196,9 +11196,9 @@ Africa,Senegal,SEN,31/10/2021,73917,1878
 Africa,Senegal,SEN,10/11/2021,73945,1881
 Africa,Senegal,SEN,20/11/2021,73965,1883
 Africa,Senegal,SEN,30/11/2021,73987,1885
-Africa,Senegal,SEN,10/12/2021,0,0
-Africa,Senegal,SEN,20/12/2021,0,0
-Africa,Senegal,SEN,31/12/2021,0,0
+Africa,Senegal,SEN,10/12/2021,74065,1886
+Africa,Senegal,SEN,20/12/2021,74183,1886
+Africa,Senegal,SEN,31/12/2021,75055,1890
 Europe,Serbia,SRB,31/01/2020,0,0
 Europe,Serbia,SRB,10/02/2020,0,0
 Europe,Serbia,SRB,20/02/2020,0,0
@@ -11266,9 +11266,9 @@ Europe,Serbia,SRB,31/10/2021,1142749,9955
 Europe,Serbia,SRB,10/11/2021,1197082,10595
 Europe,Serbia,SRB,20/11/2021,1230976,11166
 Europe,Serbia,SRB,30/11/2021,1254845,11691
-Europe,Serbia,SRB,10/12/2021,0,0
-Europe,Serbia,SRB,20/12/2021,0,0
-Europe,Serbia,SRB,31/12/2021,0,0
+Europe,Serbia,SRB,10/12/2021,1271794,12113
+Europe,Serbia,SRB,20/12/2021,1282461,12401
+Europe,Serbia,SRB,31/12/2021,1299339,12714
 ,Seychelles,SYC,31/01/2020,0,0
 ,Seychelles,SYC,10/02/2020,0,0
 ,Seychelles,SYC,20/02/2020,0,0
@@ -11336,9 +11336,9 @@ Europe,Serbia,SRB,31/12/2021,0,0
 ,Seychelles,SYC,10/11/2021,22526,119
 ,Seychelles,SYC,20/11/2021,22895,125
 ,Seychelles,SYC,30/11/2021,23417,125
-,Seychelles,SYC,10/12/2021,0,0
-,Seychelles,SYC,20/12/2021,0,0
-,Seychelles,SYC,31/12/2021,0,0
+,Seychelles,SYC,10/12/2021,23806,129
+,Seychelles,SYC,20/12/2021,24128,131
+,Seychelles,SYC,31/12/2021,24788,134
 Africa,Sierra Leone,SLE,31/01/2020,0,0
 Africa,Sierra Leone,SLE,10/02/2020,0,0
 Africa,Sierra Leone,SLE,20/02/2020,0,0
@@ -11406,9 +11406,9 @@ Africa,Sierra Leone,SLE,31/10/2021,6397,121
 Africa,Sierra Leone,SLE,10/11/2021,6398,121
 Africa,Sierra Leone,SLE,20/11/2021,6400,121
 Africa,Sierra Leone,SLE,30/11/2021,6402,121
-Africa,Sierra Leone,SLE,10/12/2021,0,0
-Africa,Sierra Leone,SLE,20/12/2021,0,0
-Africa,Sierra Leone,SLE,31/12/2021,0,0
+Africa,Sierra Leone,SLE,10/12/2021,6421,121
+Africa,Sierra Leone,SLE,20/12/2021,6510,121
+Africa,Sierra Leone,SLE,31/12/2021,7064,123
 Asia,Singapore,SGP,31/01/2020,13,0
 Asia,Singapore,SGP,10/02/2020,45,0
 Asia,Singapore,SGP,20/02/2020,84,0
@@ -11476,9 +11476,9 @@ Asia,Singapore,SGP,31/10/2021,198374,407
 Asia,Singapore,SGP,10/11/2021,227681,540
 Asia,Singapore,SGP,20/11/2021,250518,654
 Asia,Singapore,SGP,30/11/2021,264725,718
-Asia,Singapore,SGP,10/12/2021,0,0
-Asia,Singapore,SGP,20/12/2021,0,0
-Asia,Singapore,SGP,31/12/2021,0,0
+Asia,Singapore,SGP,10/12/2021,272433,783
+Asia,Singapore,SGP,20/12/2021,276105,815
+Asia,Singapore,SGP,31/12/2021,279405,828
 Europe,Slovakia,SVK,31/01/2020,0,0
 Europe,Slovakia,SVK,10/02/2020,0,0
 Europe,Slovakia,SVK,20/02/2020,0,0
@@ -11546,9 +11546,9 @@ Europe,Slovakia,SVK,31/10/2021,898926,13034
 Europe,Slovakia,SVK,10/11/2021,969099,13367
 Europe,Slovakia,SVK,20/11/2021,1064680,13818
 Europe,Slovakia,SVK,30/11/2021,1170200,14418
-Europe,Slovakia,SVK,10/12/2021,0,0
-Europe,Slovakia,SVK,20/12/2021,0,0
-Europe,Slovakia,SVK,31/12/2021,0,0
+Europe,Slovakia,SVK,10/12/2021,1272991,15236
+Europe,Slovakia,SVK,20/12/2021,1327031,16068
+Europe,Slovakia,SVK,31/12/2021,1371082,16635
 Europe,Slovenia,SVN,31/01/2020,0,0
 Europe,Slovenia,SVN,10/02/2020,0,0
 Europe,Slovenia,SVN,20/02/2020,0,0
@@ -11616,9 +11616,9 @@ Europe,Slovenia,SVN,31/10/2021,335850,4745
 Europe,Slovenia,SVN,10/11/2021,365095,4875
 Europe,Slovenia,SVN,20/11/2021,398439,5044
 Europe,Slovenia,SVN,30/11/2021,420898,5224
-Europe,Slovenia,SVN,10/12/2021,0,0
-Europe,Slovenia,SVN,20/12/2021,0,0
-Europe,Slovenia,SVN,31/12/2021,0,0
+Europe,Slovenia,SVN,10/12/2021,437689,5384
+Europe,Slovenia,SVN,20/12/2021,449149,5506
+Europe,Slovenia,SVN,31/12/2021,464048,5589
 ,Solomon Islands,SLB,31/01/2020,0,0
 ,Solomon Islands,SLB,10/02/2020,0,0
 ,Solomon Islands,SLB,20/02/2020,0,0
@@ -11686,9 +11686,9 @@ Europe,Slovenia,SVN,31/12/2021,0,0
 ,Solomon Islands,SLB,10/11/2021,20,0
 ,Solomon Islands,SLB,20/11/2021,20,0
 ,Solomon Islands,SLB,30/11/2021,20,0
-,Solomon Islands,SLB,10/12/2021,0,0
-,Solomon Islands,SLB,20/12/2021,0,0
-,Solomon Islands,SLB,31/12/2021,0,0
+,Solomon Islands,SLB,10/12/2021,20,0
+,Solomon Islands,SLB,20/12/2021,20,0
+,Solomon Islands,SLB,31/12/2021,24,0
 Africa,Somalia,SOM,31/01/2020,0,0
 Africa,Somalia,SOM,10/02/2020,0,0
 Africa,Somalia,SOM,20/02/2020,0,0
@@ -11756,9 +11756,9 @@ Africa,Somalia,SOM,31/10/2021,21998,1208
 Africa,Somalia,SOM,10/11/2021,22693,1294
 Africa,Somalia,SOM,20/11/2021,22969,1324
 Africa,Somalia,SOM,30/11/2021,23016,1327
-Africa,Somalia,SOM,10/12/2021,0,0
-Africa,Somalia,SOM,20/12/2021,0,0
-Africa,Somalia,SOM,31/12/2021,0,0
+Africa,Somalia,SOM,10/12/2021,23074,1333
+Africa,Somalia,SOM,20/12/2021,23169,1333
+Africa,Somalia,SOM,31/12/2021,23532,1333
 Africa,South Africa,ZAF,31/01/2020,0,0
 Africa,South Africa,ZAF,10/02/2020,0,0
 Africa,South Africa,ZAF,20/02/2020,0,0
@@ -11826,9 +11826,9 @@ Africa,South Africa,ZAF,31/10/2021,2922116,89177
 Africa,South Africa,ZAF,10/11/2021,2924622,89435
 Africa,South Africa,ZAF,20/11/2021,2929175,89572
 Africa,South Africa,ZAF,30/11/2021,2968052,89843
-Africa,South Africa,ZAF,10/12/2021,0,0
-Africa,South Africa,ZAF,20/12/2021,0,0
-Africa,South Africa,ZAF,31/12/2021,0,0
+Africa,South Africa,ZAF,10/12/2021,3112469,90080
+Africa,South Africa,ZAF,20/12/2021,3316585,90453
+Africa,South Africa,ZAF,31/12/2021,3458286,91145
 Asia,South Korea,KOR,31/01/2020,11,0
 Asia,South Korea,KOR,10/02/2020,27,0
 Asia,South Korea,KOR,20/02/2020,104,1
@@ -11896,9 +11896,9 @@ Asia,South Korea,KOR,31/10/2021,366386,2858
 Asia,South Korea,KOR,10/11/2021,388351,3033
 Asia,South Korea,KOR,20/11/2021,415425,3274
 Asia,South Korea,KOR,30/11/2021,452350,3659
-Asia,South Korea,KOR,10/12/2021,0,0
-Asia,South Korea,KOR,20/12/2021,0,0
-Asia,South Korea,KOR,31/12/2021,0,0
+Asia,South Korea,KOR,10/12/2021,510583,4210
+Asia,South Korea,KOR,20/12/2021,575615,4828
+Asia,South Korea,KOR,31/12/2021,635253,5625
 Africa,South Sudan,SSD,31/01/2020,0,0
 Africa,South Sudan,SSD,10/02/2020,0,0
 Africa,South Sudan,SSD,20/02/2020,0,0
@@ -11966,9 +11966,9 @@ Africa,South Sudan,SSD,31/10/2021,12361,133
 Africa,South Sudan,SSD,10/11/2021,12546,133
 Africa,South Sudan,SSD,20/11/2021,12638,133
 Africa,South Sudan,SSD,30/11/2021,12758,133
-Africa,South Sudan,SSD,10/12/2021,0,0
-Africa,South Sudan,SSD,20/12/2021,0,0
-Africa,South Sudan,SSD,31/12/2021,0,0
+Africa,South Sudan,SSD,10/12/2021,12873,133
+Africa,South Sudan,SSD,20/12/2021,13614,133
+Africa,South Sudan,SSD,31/12/2021,15242,135
 Europe,Spain,ESP,31/01/2020,0,0
 Europe,Spain,ESP,10/02/2020,2,0
 Europe,Spain,ESP,20/02/2020,2,0
@@ -12036,9 +12036,9 @@ Europe,Spain,ESP,31/10/2021,5011148,87368
 Europe,Spain,ESP,10/11/2021,5038517,87617
 Europe,Spain,ESP,20/11/2021,5080663,87810
 Europe,Spain,ESP,30/11/2021,5164184,88052
-Europe,Spain,ESP,10/12/2021,0,0
-Europe,Spain,ESP,20/12/2021,0,0
-Europe,Spain,ESP,31/12/2021,0,0
+Europe,Spain,ESP,10/12/2021,5290273,88380
+Europe,Spain,ESP,20/12/2021,5535231,88793
+Europe,Spain,ESP,31/12/2021,6294745,89405
 Asia,Sri Lanka,LKA,31/01/2020,1,0
 Asia,Sri Lanka,LKA,10/02/2020,1,0
 Asia,Sri Lanka,LKA,20/02/2020,1,0
@@ -12106,9 +12106,9 @@ Asia,Sri Lanka,LKA,31/10/2021,541073,13743
 Asia,Sri Lanka,LKA,10/11/2021,547346,13908
 Asia,Sri Lanka,LKA,20/11/2021,555929,14108
 Asia,Sri Lanka,LKA,30/11/2021,563989,14346
-Asia,Sri Lanka,LKA,10/12/2021,0,0
-Asia,Sri Lanka,LKA,20/12/2021,0,0
-Asia,Sri Lanka,LKA,31/12/2021,0,0
+Asia,Sri Lanka,LKA,10/12/2021,571426,14573
+Asia,Sri Lanka,LKA,20/12/2021,580209,14771
+Asia,Sri Lanka,LKA,31/12/2021,587245,14979
 Africa,Sudan,SDN,31/01/2020,0,0
 Africa,Sudan,SDN,10/02/2020,0,0
 Africa,Sudan,SDN,20/02/2020,0,0
@@ -12176,9 +12176,9 @@ Africa,Sudan,SDN,31/10/2021,40433,3099
 Africa,Sudan,SDN,10/11/2021,41019,3099
 Africa,Sudan,SDN,20/11/2021,41558,3099
 Africa,Sudan,SDN,30/11/2021,43084,3159
-Africa,Sudan,SDN,10/12/2021,0,0
-Africa,Sudan,SDN,20/12/2021,0,0
-Africa,Sudan,SDN,31/12/2021,0,0
+Africa,Sudan,SDN,10/12/2021,44529,3208
+Africa,Sudan,SDN,20/12/2021,45901,3295
+Africa,Sudan,SDN,31/12/2021,46518,3331
 ,Suriname,SUR,31/01/2020,0,0
 ,Suriname,SUR,10/02/2020,0,0
 ,Suriname,SUR,20/02/2020,0,0
@@ -12246,9 +12246,9 @@ Africa,Sudan,SDN,31/12/2021,0,0
 ,Suriname,SUR,10/11/2021,49902,1126
 ,Suriname,SUR,20/11/2021,50410,1146
 ,Suriname,SUR,30/11/2021,50848,1167
-,Suriname,SUR,10/12/2021,0,0
-,Suriname,SUR,20/12/2021,0,0
-,Suriname,SUR,31/12/2021,0,0
+,Suriname,SUR,10/12/2021,51167,1176
+,Suriname,SUR,20/12/2021,51416,1185
+,Suriname,SUR,31/12/2021,52446,1189
 Europe,Sweden,SWE,31/01/2020,0,0
 Europe,Sweden,SWE,10/02/2020,1,0
 Europe,Sweden,SWE,20/02/2020,1,0
@@ -12316,9 +12316,9 @@ Europe,Sweden,SWE,31/10/2021,1171512,15025
 Europe,Sweden,SWE,10/11/2021,1180518,15076
 Europe,Sweden,SWE,20/11/2021,1188735,15110
 Europe,Sweden,SWE,30/11/2021,1204859,15151
-Europe,Sweden,SWE,10/12/2021,0,0
-Europe,Sweden,SWE,20/12/2021,0,0
-Europe,Sweden,SWE,31/12/2021,0,0
+Europe,Sweden,SWE,10/12/2021,1229217,15191
+Europe,Sweden,SWE,20/12/2021,1250885,15231
+Europe,Sweden,SWE,31/12/2021,1314784,15310
 Europe,Switzerland,CHE,31/01/2020,0,0
 Europe,Switzerland,CHE,10/02/2020,0,0
 Europe,Switzerland,CHE,20/02/2020,0,0
@@ -12386,9 +12386,9 @@ Europe,Switzerland,CHE,31/10/2021,872558,11234
 Europe,Switzerland,CHE,10/11/2021,901228,11306
 Europe,Switzerland,CHE,20/11/2021,941218,11382
 Europe,Switzerland,CHE,30/11/2021,1014662,11522
-Europe,Switzerland,CHE,10/12/2021,0,0
-Europe,Switzerland,CHE,20/12/2021,0,0
-Europe,Switzerland,CHE,31/12/2021,0,0
+Europe,Switzerland,CHE,10/12/2021,1111923,11746
+Europe,Switzerland,CHE,20/12/2021,1196208,11953
+Europe,Switzerland,CHE,31/12/2021,1332615,12217
 Asia,Syria,SYR,31/01/2020,0,0
 Asia,Syria,SYR,10/02/2020,0,0
 Asia,Syria,SYR,20/02/2020,0,0
@@ -12456,9 +12456,9 @@ Asia,Syria,SYR,31/10/2021,43146,2558
 Asia,Syria,SYR,10/11/2021,45468,2637
 Asia,Syria,SYR,20/11/2021,47091,2699
 Asia,Syria,SYR,30/11/2021,48170,2749
-Asia,Syria,SYR,10/12/2021,0,0
-Asia,Syria,SYR,20/12/2021,0,0
-Asia,Syria,SYR,31/12/2021,0,0
+Asia,Syria,SYR,10/12/2021,49101,2804
+Asia,Syria,SYR,20/12/2021,49806,2850
+Asia,Syria,SYR,31/12/2021,50278,2897
 Asia,Taiwan,TWN,31/01/2020,10,0
 Asia,Taiwan,TWN,10/02/2020,18,0
 Asia,Taiwan,TWN,20/02/2020,24,1
@@ -12526,9 +12526,9 @@ Asia,Taiwan,TWN,31/10/2021,16412,847
 Asia,Taiwan,TWN,10/11/2021,16456,848
 Asia,Taiwan,TWN,20/11/2021,16520,848
 Asia,Taiwan,TWN,30/11/2021,16601,848
-Asia,Taiwan,TWN,10/12/2021,0,0
-Asia,Taiwan,TWN,20/12/2021,0,0
-Asia,Taiwan,TWN,31/12/2021,0,0
+Asia,Taiwan,TWN,10/12/2021,16721,848
+Asia,Taiwan,TWN,20/12/2021,16816,850
+Asia,Taiwan,TWN,31/12/2021,17029,850
 ,Tajikistan,TJK,31/01/2020,0,0
 ,Tajikistan,TJK,10/02/2020,0,0
 ,Tajikistan,TJK,20/02/2020,0,0
@@ -12596,9 +12596,9 @@ Asia,Taiwan,TWN,31/12/2021,0,0
 ,Tajikistan,TJK,10/11/2021,17488,125
 ,Tajikistan,TJK,20/11/2021,17489,125
 ,Tajikistan,TJK,30/11/2021,17493,125
-,Tajikistan,TJK,10/12/2021,0,0
-,Tajikistan,TJK,20/12/2021,0,0
-,Tajikistan,TJK,31/12/2021,0,0
+,Tajikistan,TJK,10/12/2021,17493,125
+,Tajikistan,TJK,20/12/2021,17493,125
+,Tajikistan,TJK,31/12/2021,17493,125
 Africa,Tanzania,TZA,31/01/2020,0,0
 Africa,Tanzania,TZA,10/02/2020,0,0
 Africa,Tanzania,TZA,20/02/2020,0,0
@@ -12666,9 +12666,9 @@ Africa,Tanzania,TZA,31/10/2021,26154,725
 Africa,Tanzania,TZA,10/11/2021,26196,725
 Africa,Tanzania,TZA,20/11/2021,26227,727
 Africa,Tanzania,TZA,30/11/2021,26270,730
-Africa,Tanzania,TZA,10/12/2021,0,0
-Africa,Tanzania,TZA,20/12/2021,0,0
-Africa,Tanzania,TZA,31/12/2021,0,0
+Africa,Tanzania,TZA,10/12/2021,26309,734
+Africa,Tanzania,TZA,20/12/2021,26483,734
+Africa,Tanzania,TZA,31/12/2021,29306,737
 Asia,Thailand,THA,31/01/2020,19,0
 Asia,Thailand,THA,10/02/2020,32,0
 Asia,Thailand,THA,20/02/2020,35,0
@@ -12736,9 +12736,9 @@ Asia,Thailand,THA,31/10/2021,1912024,19205
 Asia,Thailand,THA,10/11/2021,1989473,19826
 Asia,Thailand,THA,20/11/2021,2057575,20358
 Asia,Thailand,THA,30/11/2021,2115872,20771
-Asia,Thailand,THA,10/12/2021,0,0
-Asia,Thailand,THA,20/12/2021,0,0
-Asia,Thailand,THA,31/12/2021,0,0
+Asia,Thailand,THA,10/12/2021,2164859,21151
+Asia,Thailand,THA,20/12/2021,2194053,21408
+Asia,Thailand,THA,31/12/2021,2223435,21698
 ,Timor-Leste,TLS,31/01/2020,0,0
 ,Timor-Leste,TLS,10/02/2020,0,0
 ,Timor-Leste,TLS,20/02/2020,0,0
@@ -12806,9 +12806,9 @@ Asia,Thailand,THA,31/12/2021,0,0
 ,Timor-Leste,TLS,10/11/2021,19807,122
 ,Timor-Leste,TLS,20/11/2021,19819,122
 ,Timor-Leste,TLS,30/11/2021,19823,122
-,Timor-Leste,TLS,10/12/2021,0,0
-,Timor-Leste,TLS,20/12/2021,0,0
-,Timor-Leste,TLS,31/12/2021,0,0
+,Timor-Leste,TLS,10/12/2021,19829,122
+,Timor-Leste,TLS,20/12/2021,19833,122
+,Timor-Leste,TLS,31/12/2021,19837,122
 ,Togo,TGO,31/01/2020,0,0
 ,Togo,TGO,10/02/2020,0,0
 ,Togo,TGO,20/02/2020,0,0
@@ -12876,9 +12876,9 @@ Asia,Thailand,THA,31/12/2021,0,0
 ,Togo,TGO,10/11/2021,26133,243
 ,Togo,TGO,20/11/2021,26199,243
 ,Togo,TGO,30/11/2021,26265,243
-,Togo,TGO,10/12/2021,0,0
-,Togo,TGO,20/12/2021,0,0
-,Togo,TGO,31/12/2021,0,0
+,Togo,TGO,10/12/2021,26372,243
+,Togo,TGO,20/12/2021,26742,245
+,Togo,TGO,31/12/2021,30163,248
 ,Tokelau,TKL,31/01/2020,0,0
 ,Tokelau,TKL,10/02/2020,0,0
 ,Tokelau,TKL,20/02/2020,0,0
@@ -13016,9 +13016,9 @@ Asia,Thailand,THA,31/12/2021,0,0
 ,Tonga,TON,10/11/2021,1,0
 ,Tonga,TON,20/11/2021,1,0
 ,Tonga,TON,30/11/2021,1,0
-,Tonga,TON,10/12/2021,0,0
-,Tonga,TON,20/12/2021,0,0
-,Tonga,TON,31/12/2021,0,0
+,Tonga,TON,10/12/2021,1,0
+,Tonga,TON,20/12/2021,1,0
+,Tonga,TON,31/12/2021,1,0
 North America,Trinidad and Tobago,TTO,31/01/2020,0,0
 North America,Trinidad and Tobago,TTO,10/02/2020,0,0
 North America,Trinidad and Tobago,TTO,20/02/2020,0,0
@@ -13086,9 +13086,9 @@ North America,Trinidad and Tobago,TTO,31/10/2021,57329,1696
 North America,Trinidad and Tobago,TTO,10/11/2021,60475,1806
 North America,Trinidad and Tobago,TTO,20/11/2021,65485,1947
 North America,Trinidad and Tobago,TTO,30/11/2021,71361,2158
-North America,Trinidad and Tobago,TTO,10/12/2021,0,0
-North America,Trinidad and Tobago,TTO,20/12/2021,0,0
-North America,Trinidad and Tobago,TTO,31/12/2021,0,0
+North America,Trinidad and Tobago,TTO,10/12/2021,79237,2361
+North America,Trinidad and Tobago,TTO,20/12/2021,85873,2612
+North America,Trinidad and Tobago,TTO,31/12/2021,91899,2869
 Africa,Tunisia,TUN,31/01/2020,0,0
 Africa,Tunisia,TUN,10/02/2020,0,0
 Africa,Tunisia,TUN,20/02/2020,0,0
@@ -13156,9 +13156,9 @@ Africa,Tunisia,TUN,31/10/2021,712747,25241
 Africa,Tunisia,TUN,10/11/2021,715276,25287
 Africa,Tunisia,TUN,20/11/2021,716183,25340
 Africa,Tunisia,TUN,30/11/2021,717572,25373
-Africa,Tunisia,TUN,10/12/2021,0,0
-Africa,Tunisia,TUN,20/12/2021,0,0
-Africa,Tunisia,TUN,31/12/2021,0,0
+Africa,Tunisia,TUN,10/12/2021,719247,25419
+Africa,Tunisia,TUN,20/12/2021,721103,25475
+Africa,Tunisia,TUN,31/12/2021,726706,25569
 Asia,Turkey,TUR,31/01/2020,0,0
 Asia,Turkey,TUR,10/02/2020,0,0
 Asia,Turkey,TUR,20/02/2020,0,0
@@ -13226,9 +13226,9 @@ Asia,Turkey,TUR,31/10/2021,8032958,70611
 Asia,Turkey,TUR,10/11/2021,8317394,72713
 Asia,Turkey,TUR,20/11/2021,8552347,74847
 Asia,Turkey,TUR,30/11/2021,8797558,76842
-Asia,Turkey,TUR,10/12/2021,0,0
-Asia,Turkey,TUR,20/12/2021,0,0
-Asia,Turkey,TUR,31/12/2021,0,0
+Asia,Turkey,TUR,10/12/2021,9004938,78778
+Asia,Turkey,TUR,20/12/2021,9191851,80591
+Asia,Turkey,TUR,31/12/2021,9484520,82361
 ,Turkmenistan,TKM,31/01/2020,0,0
 ,Turkmenistan,TKM,10/02/2020,0,0
 ,Turkmenistan,TKM,20/02/2020,0,0
@@ -13436,9 +13436,9 @@ Africa,Uganda,UGA,31/10/2021,126171,3215
 Africa,Uganda,UGA,10/11/2021,126714,3231
 Africa,Uganda,UGA,20/11/2021,127128,3256
 Africa,Uganda,UGA,30/11/2021,127550,3252
-Africa,Uganda,UGA,10/12/2021,0,0
-Africa,Uganda,UGA,20/12/2021,0,0
-Africa,Uganda,UGA,31/12/2021,0,0
+Africa,Uganda,UGA,10/12/2021,127944,3265
+Africa,Uganda,UGA,20/12/2021,129319,3274
+Africa,Uganda,UGA,31/12/2021,140737,3294
 Europe,Ukraine,UKR,31/01/2020,0,0
 Europe,Ukraine,UKR,10/02/2020,0,0
 Europe,Ukraine,UKR,20/02/2020,0,0
@@ -13506,9 +13506,9 @@ Europe,Ukraine,UKR,31/10/2021,3058108,72073
 Europe,Ukraine,UKR,10/11/2021,3277772,78865
 Europe,Ukraine,UKR,20/11/2021,3481347,85847
 Europe,Ukraine,UKR,30/11/2021,3606622,91268
-Europe,Ukraine,UKR,10/12/2021,0,0
-Europe,Ukraine,UKR,20/12/2021,0,0
-Europe,Ukraine,UKR,31/12/2021,0,0
+Europe,Ukraine,UKR,10/12/2021,3717640,95952
+Europe,Ukraine,UKR,20/12/2021,3788209,99153
+Europe,Ukraine,UKR,31/12/2021,3847226,102088
 Asia,United Arab Emirates,ARE,31/01/2020,4,0
 Asia,United Arab Emirates,ARE,10/02/2020,8,0
 Asia,United Arab Emirates,ARE,20/02/2020,9,0
@@ -13576,9 +13576,9 @@ Asia,United Arab Emirates,ARE,31/10/2021,739905,2136
 Asia,United Arab Emirates,ARE,10/11/2021,740647,2142
 Asia,United Arab Emirates,ARE,20/11/2021,741370,2144
 Asia,United Arab Emirates,ARE,30/11/2021,742041,2147
-Asia,United Arab Emirates,ARE,10/12/2021,0,0
-Asia,United Arab Emirates,ARE,20/12/2021,0,0
-Asia,United Arab Emirates,ARE,31/12/2021,0,0
+Asia,United Arab Emirates,ARE,10/12/2021,742641,2151
+Asia,United Arab Emirates,ARE,20/12/2021,744438,2152
+Asia,United Arab Emirates,ARE,31/12/2021,761937,2164
 Europe,United Kingdom,UK,31/01/2020,2,0
 Europe,United Kingdom,UK,10/02/2020,14,0
 Europe,United Kingdom,UK,20/02/2020,22,0
@@ -13646,9 +13646,9 @@ Europe,United Kingdom,UK,31/10/2021,9100442,141055
 Europe,United Kingdom,UK,10/11/2021,9451884,142772
 Europe,United Kingdom,UK,20/11/2021,9857658,144308
 Europe,United Kingdom,UK,30/11/2021,10285745,145414
-Europe,United Kingdom,UK,10/12/2021,0,0
-Europe,United Kingdom,UK,20/12/2021,0,0
-Europe,United Kingdom,UK,31/12/2021,0,0
+Europe,United Kingdom,UK,10/12/2021,10780610,146712
+Europe,United Kingdom,UK,20/12/2021,11518255,147723
+Europe,United Kingdom,UK,31/12/2021,13011556,149096
 ,United States Virgin Islands,VIR,31/01/2020,0,0
 ,United States Virgin Islands,VIR,10/02/2020,0,0
 ,United States Virgin Islands,VIR,20/02/2020,0,0
@@ -13786,9 +13786,9 @@ South America,Uruguay,URY,31/10/2021,393899,6078
 South America,Uruguay,URY,10/11/2021,395805,6093
 South America,Uruguay,URY,20/11/2021,397712,6112
 South America,Uruguay,URY,30/11/2021,399695,6131
-South America,Uruguay,URY,10/12/2021,0,0
-South America,Uruguay,URY,20/12/2021,0,0
-South America,Uruguay,URY,31/12/2021,0,0
+South America,Uruguay,URY,10/12/2021,402149,6141
+South America,Uruguay,URY,20/12/2021,404821,6156
+South America,Uruguay,URY,31/12/2021,413383,6170
 North America,United States,USA,31/01/2020,8,0
 North America,United States,USA,10/02/2020,12,0
 North America,United States,USA,20/02/2020,14,0
@@ -13800,65 +13800,65 @@ North America,United States,USA,10/04/2020,514943,23649
 North America,United States,USA,20/04/2020,799022,45179
 North America,United States,USA,30/04/2020,1080974,66154
 North America,United States,USA,10/05/2020,1339139,83059
-North America,United States,USA,20/05/2020,1561592,97052
-North America,United States,USA,31/05/2020,1799142,107674
-North America,United States,USA,10/06/2020,1999260,115716
-North America,United States,USA,20/06/2020,2253735,122257
-North America,United States,USA,30/06/2020,2642480,127365
-North America,United States,USA,10/07/2020,3192434,134304
-North America,United States,USA,20/07/2020,3840166,141590
-North America,United States,USA,31/07/2020,4566339,153828
-North America,United States,USA,10/08/2020,5094446,163274
-North America,United States,USA,20/08/2020,5573631,173972
-North America,United States,USA,31/08/2020,6025460,183383
-North America,United States,USA,10/09/2020,6398669,191583
-North America,United States,USA,20/09/2020,6810626,199275
-North America,United States,USA,30/09/2020,7234382,206880
-North America,United States,USA,10/10/2020,7726972,214409
-North America,United States,USA,20/10/2020,8297283,221548
-North America,United States,USA,31/10/2020,9170153,231515
-North America,United States,USA,10/11/2020,10354777,241526
-North America,United States,USA,20/11/2020,12047450,255990
-North America,United States,USA,30/11/2020,13686921,270827
-North America,United States,USA,10/12/2020,15822977,295892
-North America,United States,USA,20/12/2020,18009585,322749
-North America,United States,USA,31/12/2020,20164039,351754
-North America,United States,USA,10/01/2021,22564676,381069
-North America,United States,USA,20/01/2021,24585297,412892
-North America,United States,USA,31/01/2021,26316283,448407
-North America,United States,USA,10/02/2021,27416500,477329
-North America,United States,USA,20/02/2021,28184301,499012
-North America,United States,USA,28/02/2021,28718789,514193
-North America,United States,USA,10/03/2021,29292601,530004
-North America,United States,USA,20/03/2021,29858257,541183
-North America,United States,USA,31/03/2021,30532941,551456
-North America,United States,USA,10/04/2021,31228045,561146
-North America,United States,USA,20/04/2021,31874335,567850
-North America,United States,USA,30/04/2021,32424257,575348
-North America,United States,USA,10/05/2021,32823085,581536
-North America,United States,USA,20/05/2021,33135702,587791
-North America,United States,USA,31/05/2021,33345042,593694
-North America,United States,USA,10/06/2021,33501967,598367
-North America,United States,USA,20/06/2021,33621444,601359
-North America,United States,USA,30/06/2021,33745720,604248
-North America,United States,USA,10/07/2021,33927832,606638
-North America,United States,USA,20/07/2021,34264102,609093
-North America,United States,USA,31/07/2021,35064270,612952
-North America,United States,USA,10/08/2021,36171399,618034
-North America,United States,USA,20/08/2021,37724906,627826
-North America,United States,USA,31/08/2021,39353834,640871
-North America,United States,USA,10/09/2021,40994961,659527
-North America,United States,USA,20/09/2021,42332050,677003
-North America,United States,USA,30/09/2021,43503243,699563
-North America,United States,USA,10/10/2021,44395776,714601
-North America,United States,USA,20/10/2021,45267256,733350
-North America,United States,USA,31/10/2021,46007342,747189
-North America,United States,USA,10/11/2021,46812332,759916
-North America,United States,USA,20/11/2021,47700783,771417
-North America,United States,USA,30/11/2021,48554890,780140
-North America,United States,USA,10/12/2021,0,0
-North America,United States,USA,20/12/2021,0,0
-North America,United States,USA,31/12/2021,0,0
+North America,United States,USA,20/05/2020,1561593,97052
+North America,United States,USA,31/05/2020,1799143,107674
+North America,United States,USA,10/06/2020,1999261,115716
+North America,United States,USA,20/06/2020,2253736,122257
+North America,United States,USA,30/06/2020,2642484,127365
+North America,United States,USA,10/07/2020,3192438,134304
+North America,United States,USA,20/07/2020,3840205,141590
+North America,United States,USA,31/07/2020,4566406,153828
+North America,United States,USA,10/08/2020,5094513,163274
+North America,United States,USA,20/08/2020,5573696,173972
+North America,United States,USA,31/08/2020,6025525,183383
+North America,United States,USA,10/09/2020,6398733,191583
+North America,United States,USA,20/09/2020,6810687,199275
+North America,United States,USA,30/09/2020,7234443,206880
+North America,United States,USA,10/10/2020,7727033,214409
+North America,United States,USA,20/10/2020,8297344,221548
+North America,United States,USA,31/10/2020,9170214,231515
+North America,United States,USA,10/11/2020,10354833,241526
+North America,United States,USA,20/11/2020,12047504,255990
+North America,United States,USA,30/11/2020,13686965,270827
+North America,United States,USA,10/12/2020,15823010,295892
+North America,United States,USA,20/12/2020,18009597,322749
+North America,United States,USA,31/12/2020,20164045,351754
+North America,United States,USA,10/01/2021,22564561,381069
+North America,United States,USA,20/01/2021,24585195,412892
+North America,United States,USA,31/01/2021,26316175,448406
+North America,United States,USA,10/02/2021,27416385,477328
+North America,United States,USA,20/02/2021,28184185,499011
+North America,United States,USA,28/02/2021,28718668,514192
+North America,United States,USA,10/03/2021,29292481,530003
+North America,United States,USA,20/03/2021,29858143,541182
+North America,United States,USA,31/03/2021,30532817,551455
+North America,United States,USA,10/04/2021,31227914,561145
+North America,United States,USA,20/04/2021,31874199,567849
+North America,United States,USA,30/04/2021,32424119,575347
+North America,United States,USA,10/05/2021,32822948,581535
+North America,United States,USA,20/05/2021,33135565,587790
+North America,United States,USA,31/05/2021,33345206,593717
+North America,United States,USA,10/06/2021,33501831,598366
+North America,United States,USA,20/06/2021,33621570,601365
+North America,United States,USA,30/06/2021,33745593,604247
+North America,United States,USA,10/07/2021,33928068,606640
+North America,United States,USA,20/07/2021,34263974,609092
+North America,United States,USA,31/07/2021,35065721,612957
+North America,United States,USA,10/08/2021,36171317,618033
+North America,United States,USA,20/08/2021,37724945,627827
+North America,United States,USA,31/08/2021,39354020,640873
+North America,United States,USA,10/09/2021,40995147,659529
+North America,United States,USA,20/09/2021,42332238,677008
+North America,United States,USA,30/09/2021,43503489,699572
+North America,United States,USA,10/10/2021,44399859,714697
+North America,United States,USA,20/10/2021,45267525,733404
+North America,United States,USA,31/10/2021,46009248,747343
+North America,United States,USA,10/11/2021,46812731,760193
+North America,United States,USA,20/11/2021,47704782,772116
+North America,United States,USA,30/11/2021,48560598,781328
+North America,United States,USA,10/12/2021,49841640,797566
+North America,United States,USA,20/12/2021,51133980,808201
+North America,United States,USA,31/12/2021,54743982,825536
 Asia,Uzbekistan,UZB,31/01/2020,0,0
 Asia,Uzbekistan,UZB,10/02/2020,0,0
 Asia,Uzbekistan,UZB,20/02/2020,0,0
@@ -13926,9 +13926,9 @@ Asia,Uzbekistan,UZB,31/10/2021,185963,1323
 Asia,Uzbekistan,UZB,10/11/2021,188619,1346
 Asia,Uzbekistan,UZB,20/11/2021,191122,1373
 Asia,Uzbekistan,UZB,30/11/2021,193208,1402
-Asia,Uzbekistan,UZB,10/12/2021,0,0
-Asia,Uzbekistan,UZB,20/12/2021,0,0
-Asia,Uzbekistan,UZB,31/12/2021,0,0
+Asia,Uzbekistan,UZB,10/12/2021,195246,1430
+Asia,Uzbekistan,UZB,20/12/2021,197268,1461
+Asia,Uzbekistan,UZB,31/12/2021,198903,1485
 ,Vanuatu,VUT,31/01/2020,0,0
 ,Vanuatu,VUT,10/02/2020,0,0
 ,Vanuatu,VUT,20/02/2020,0,0
@@ -13996,9 +13996,9 @@ Asia,Uzbekistan,UZB,31/12/2021,0,0
 ,Vanuatu,VUT,10/11/2021,6,1
 ,Vanuatu,VUT,20/11/2021,6,1
 ,Vanuatu,VUT,30/11/2021,6,1
-,Vanuatu,VUT,10/12/2021,0,0
-,Vanuatu,VUT,20/12/2021,0,0
-,Vanuatu,VUT,31/12/2021,0,0
+,Vanuatu,VUT,10/12/2021,6,1
+,Vanuatu,VUT,20/12/2021,7,1
+,Vanuatu,VUT,31/12/2021,7,1
 Europe,Vatican,VAT,31/01/2020,0,0
 Europe,Vatican,VAT,10/02/2020,0,0
 Europe,Vatican,VAT,20/02/2020,0,0
@@ -14066,9 +14066,9 @@ Europe,Vatican,VAT,31/10/2021,27,0
 Europe,Vatican,VAT,10/11/2021,27,0
 Europe,Vatican,VAT,20/11/2021,27,0
 Europe,Vatican,VAT,30/11/2021,27,0
-Europe,Vatican,VAT,10/12/2021,0,0
-Europe,Vatican,VAT,20/12/2021,0,0
-Europe,Vatican,VAT,31/12/2021,0,0
+Europe,Vatican,VAT,10/12/2021,27,0
+Europe,Vatican,VAT,20/12/2021,27,0
+Europe,Vatican,VAT,31/12/2021,27,0
 South America,Venezuela,VEN,31/01/2020,0,0
 South America,Venezuela,VEN,10/02/2020,0,0
 South America,Venezuela,VEN,20/02/2020,0,0
@@ -14136,9 +14136,9 @@ South America,Venezuela,VEN,31/10/2021,407151,4891
 South America,Venezuela,VEN,10/11/2021,416190,4996
 South America,Venezuela,VEN,20/11/2021,424441,5073
 South America,Venezuela,VEN,30/11/2021,431296,5144
-South America,Venezuela,VEN,10/12/2021,0,0
-South America,Venezuela,VEN,20/12/2021,0,0
-South America,Venezuela,VEN,31/12/2021,0,0
+South America,Venezuela,VEN,10/12/2021,437113,5229
+South America,Venezuela,VEN,20/12/2021,441562,5285
+South America,Venezuela,VEN,31/12/2021,444635,5328
 Asia,Vietnam,VNM,31/01/2020,2,0
 Asia,Vietnam,VNM,10/02/2020,14,0
 Asia,Vietnam,VNM,20/02/2020,16,0
@@ -14206,9 +14206,9 @@ Asia,Vietnam,VNM,31/10/2021,921122,22083
 Asia,Vietnam,VNM,10/11/2021,992735,22765
 Asia,Vietnam,VNM,20/11/2021,1084625,23685
 Asia,Vietnam,VNM,30/11/2021,1238082,25252
-Asia,Vietnam,VNM,10/12/2021,0,0
-Asia,Vietnam,VNM,20/12/2021,0,0
-Asia,Vietnam,VNM,31/12/2021,0,0
+Asia,Vietnam,VNM,10/12/2021,1382272,27402
+Asia,Vietnam,VNM,20/12/2021,1555455,29791
+Asia,Vietnam,VNM,31/12/2021,1731257,32394
 Africa,Western Sahara,ESH,31/01/2020,0,0
 Africa,Western Sahara,ESH,10/02/2020,0,0
 Africa,Western Sahara,ESH,20/02/2020,0,0
@@ -14346,9 +14346,9 @@ Africa,Western Sahara,ESH,31/12/2021,0,0
 ,Yemen,YEM,10/11/2021,9902,1918
 ,Yemen,YEM,20/11/2021,9955,1938
 ,Yemen,YEM,30/11/2021,10004,1950
-,Yemen,YEM,10/12/2021,0,0
-,Yemen,YEM,20/12/2021,0,0
-,Yemen,YEM,31/12/2021,0,0
+,Yemen,YEM,10/12/2021,10056,1962
+,Yemen,YEM,20/12/2021,10102,1977
+,Yemen,YEM,31/12/2021,10126,1984
 Africa,Zambia,ZMB,31/01/2020,0,0
 Africa,Zambia,ZMB,10/02/2020,0,0
 Africa,Zambia,ZMB,20/02/2020,0,0
@@ -14416,9 +14416,9 @@ Africa,Zambia,ZMB,31/10/2021,209734,3661
 Africa,Zambia,ZMB,10/11/2021,209939,3664
 Africa,Zambia,ZMB,20/11/2021,210057,3667
 Africa,Zambia,ZMB,30/11/2021,210169,3667
-Africa,Zambia,ZMB,10/12/2021,0,0
-Africa,Zambia,ZMB,20/12/2021,0,0
-Africa,Zambia,ZMB,31/12/2021,0,0
+Africa,Zambia,ZMB,10/12/2021,210724,3668
+Africa,Zambia,ZMB,20/12/2021,217117,3684
+Africa,Zambia,ZMB,31/12/2021,254274,3734
 Africa,Zimbabwe,ZWE,31/01/2020,0,0
 Africa,Zimbabwe,ZWE,10/02/2020,0,0
 Africa,Zimbabwe,ZWE,20/02/2020,0,0
@@ -14486,6 +14486,6 @@ Africa,Zimbabwe,ZWE,31/10/2021,132977,4678
 Africa,Zimbabwe,ZWE,10/11/2021,133302,4694
 Africa,Zimbabwe,ZWE,20/11/2021,133615,4699
 Africa,Zimbabwe,ZWE,30/11/2021,134625,4707
-Africa,Zimbabwe,ZWE,10/12/2021,0,0
-Africa,Zimbabwe,ZWE,20/12/2021,0,0
-Africa,Zimbabwe,ZWE,31/12/2021,0,0
+Africa,Zimbabwe,ZWE,10/12/2021,155817,4723
+Africa,Zimbabwe,ZWE,20/12/2021,195079,4805
+Africa,Zimbabwe,ZWE,31/12/2021,213258,5004
